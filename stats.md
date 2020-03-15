@@ -1,7 +1,7 @@
 # Statistiques
 [back](./)
 
-## Suivi
+## Suivi de crise
 * [Suivi Fr - gouvernement](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/points-de-situation-coronavirus-covid-19)
 
 ## Simulations
