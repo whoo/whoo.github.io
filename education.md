@@ -2,4 +2,4 @@
 [retour](./)
 
 ## Mathématiques
-* [https://www.mathematiquesfaciles.com/exercices/]
+* [https://www.mathematiquesfaciles.com](https://www.mathematiquesfaciles.com/exercices/)
