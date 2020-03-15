@@ -4,7 +4,7 @@ Gestion de la crise, ressources. Nous avons tous à y gagner en partageant.
 
 # Liens
 
-* [informations](informations.md)
+* [Informations](informations.md)
 * [Education](education.md)
 * Passer le temps
   * [Videos](video.md)
