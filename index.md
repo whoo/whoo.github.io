@@ -1,6 +1,8 @@
-# Introduction
+# Links
+Quelques informations collectées autour du #COVID-19
 
 
-
-
-* [Statistics](stats.md)
+* [Education](education.md)
+* [Passer le temps](video.md)
+* [Statistique](stats.md)
+* [Fun](fun.md)
