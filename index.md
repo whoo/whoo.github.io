@@ -1,6 +1,6 @@
 # Pourquoi
 Quelques informations collectées autour du COVID-19.
-Gestion de la crise, ressources. Nous avons tous à y gagner en partagean.
+Gestion de la crise, ressources. Nous avons tous à y gagner en partageant.
 
 # Liens
 
