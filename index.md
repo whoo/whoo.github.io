@@ -1,2 +1,6 @@
 # Introduction
 
+
+
+
+* [Statistics](stats.md)
