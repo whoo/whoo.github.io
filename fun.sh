@@ -11,6 +11,7 @@ do
 echo "![img]($a)" ; 
 done >> fun.md
 
-git add fun.md
+git add *
 git commit -m "Autocommit"
 
+git push

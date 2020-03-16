@@ -3,3 +3,5 @@
 
 ## Documentaires
 * [Arte](https://www.youtube.com/user/ARTE/featured)
+* [Les mondes de Jamy](https://www.youtube.com/channel/UCrRKlEDktKeraMTgAN_DIzw)
+
