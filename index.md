@@ -8,6 +8,7 @@ Gestion de la crise, ressources. Nous avons tous à y gagner en partageant.
 * [Education](education.md)
 * Passer le temps
   * [Videos](video.md)
+  * [Livres](books.md)
 * [Statistiques](stats.md)
 * [Fun](fun.md)
 
