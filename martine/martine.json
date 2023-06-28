@@ -1,0 +1,24 @@
+{
+  "short_name": "Martine",
+  "name": "Do not abuse of Martine",
+  "display":"standalone",
+  "theme_color": "#000000",
+  "background_color": "#2196F3",
+  "icons": [
+    {
+      "src": "woman-3.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "woman-3.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "woman-3.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html><head>
+		<title>Demo</title>
+		<meta charset="utf-8">
+    <style>
+      html, body { margin: 0; padding: 0; border: 0; }
+      #c { display: block; } /* kill scrollbars from hell */
+    </style>
+	</head>
+	<body>
+		<canvas id="c" width="899" height="738" style="width: 899px; height: 738px;"></canvas>
+		<script>
+			var a = document.getElementsByTagName('canvas')[0];
+			var b = document.body;
+      var d = function(e){ return function(){ e.parentNode.removeChild(e); }; }(a);
+      // unprefix some popular vendor prefixed things (but stick to their original name)
+      var AudioContext =
+        window.AudioContext ||
+        window.webkitAudioContext;
+      var requestAnimationFrame =
+        window.requestAnimationFrame ||
+        window.mozRequestAnimationFrame ||
+        window.webkitRequestAnimationFrame ||
+        window.msRequestAnimationFrame ||
+        function(f){ setTimeout(f, 1000/30); };
+
+      // fix bug in safari: https://qfox.nl/weblog/218
+      document.body.clientWidth;
+      // auto resize (original) canvas. call `onresize(w,h) to limit the size of the canvas
+      (window.onorientationchange = window.onresize = function(a){
+        var mw = Infinity;
+        var mh = Infinity;
+        var min = Math.min;
+
+        return function(w,h){
+          if (arguments.length === 2) {
+            mw = w;
+            mh = h;
+          }
+          a.style.width = (a.width = min(mw, innerWidth)) + 'px';
+          a.style.height = (a.height = min(mh, innerHeight)) + 'px';
+        };
+      }(a))();
+
+      var c = a.getContext('2d');
+		</script>
+		<script>
+_='Jd@[G$16$G16G$16G$1]	f@Qg@/28/2,30Qh@	k@]; p(_,lm=C-;if(0>m)BQe1	l26(-4lQ(C+1	m]}f`Jq400>q;qHu,v;h{c:[[ZZ!	!]6ZZI]6[u,vZ!!]6!!	!I!I]]	b:d[flo`4%)]})}tr=0.01; x(_,l;t+=r;requestAnimationFrame(xNf@9^*(t),9D3|,D4|,D5|];=L#333"Rect(8Nk@]ll<hYlHmUcbb<mYbHn={z:a:[]}ee<m~YeHs=p(Q1	2]Nif(s)Oz=mX(s[2	Oz),OasNelse{Oa@];break}}0<Oa&&(ObUb,kn))}}k.sort((_){B.z-e.z})bb<kYb++){EbegXPaW()ee<aYe++)0==e?Emov:ElX;EclosePaW(Nb[3]=1+z/^;EVV()fill()}}x(NMaW.6u,v4(5e+5b)+153(=30*(10%-5)Lrgba("+b.joX(",")+")";E[u,v	],.lengWk~.){J,wsX])*eTo(aKQaK1])cosa.widW;f`0,(Dfunctionm~K!I!]6=0;;Efill.push()*g[2]/m+g[5e-5b)!$255,%*random()6	[8,a.height9^*(t),@=[Breturn bC4l+)Df[Ec.G17H++I	Jvar K[e][LStyle="N);On.Q0	U=h[l].VstrokeWthXinY;Z^100_b,e`or(|]+r~[b]-=D';for(Y in $='~|`_^ZYXWVUQONLKJIHGEDCB@986%$!	')with(_.split($[Y]))_=join(pop());eval(_)
+		</script>
+	
+
+</body></html>

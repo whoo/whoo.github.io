@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html manifest="cache.appcache">
+<head>
+<title>Martine</title>
+
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/> 
+<meta name="apple-mobile-web-app-capable" content="yes" /> 
+<meta name="apple-mobile-web-app-status-bar-style" content="black" /> 
+<link rel="apple-touch-icon" href="iphon_tetris_icon.png"/>
+<link rel="apple-touch-startup-image" href="startup.png" /> 
+<link rel="manifest" href="martine.json" />
+<link rel="stylesheet" href=jquery.modal.min.css> 
+
+</head>
+
+
+<style>
+
+@font-face{font-family:"vag-rounded-regular";src:url("fonts/VAGRoundedBT-Regular.otf") format("woff"),url("fonts/VAGRoundedBT-Regular.otf") format("opentype"),url("fonts/VAGRoundedBT-Regular.otf") format("truetype");}
+
+#preview {  height: 100%; float:left;  min-height: 800px; width: 450px; }
+#save,#close { display: inline-block; outline: none; cursor: pointer; font-size: 15px; line-height: 14px; font-weight: 600; border-radius: 8px; padding: 10px 20px; border: none; transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s; background: linear-gradient(to right, rgb(230, 30, 77) 0%, rgb(227, 28, 95) 50%, rgb(215, 4, 102) 100%); color: #fff; }
+
+.inp { box-sizing: border-box; font-size: 14px; vertical-align: baseline; font-weight: 400; line-height: 1.29; letter-spacing: .16px; border-radius: 0; outline: 2px solid transparent; outline-offset: -2px; width: 90%; height: 40px; border: none; border-bottom: 1px solid #8d8d8d; background-color: #f4f4f4; padding: 0 16px; color: #161616; transition: background-color 70ms cubic-bezier(.2,0,.38,.9),outline 70ms cubic-bezier(.2,0,.38,.9);  
+:focus{ outline: 2px solid #0f62fe; outline-offset: -2px; }
+                }
+
+.slidecontainer { width: 350px; }
+.slider { -webkit-appearance: none; appearance: none; width: 100%; height: 25px; background: #d3d3d3; outline: none; opacity: 0.7; -webkit-transition: .2s; transition: opacity .2s; }
+.slider:hover { opacity: 1; }
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: #04AA6D; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+.slider::-moz-range-thumb {
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: #04AA6D; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+</style>
+
+<body>
+
+ <script type="module">
+      import "./slide.js";
+</script>
+
+<div id=preview >
+<canvas width="350px" height="435px" id="cool" ></canvas><br>
+<input id="stitle" class=inp value=martine><br>
+<input id="text"  class=inp value=...><br>
+<div class="slidecontainer">
+  <input type="range" min="0" max="400" value="100" class="slider" id="myRange">
+</div>
+
+<input type=button value=Save id='save' class=inp>
+<slider-color-picker mode="rgba" value="#FF55A7"><slider-color-picker>
+</div>
+
+<div id=vignette></div>
+
+<div id="ex1" class="modal">
+ <div>
+   <p></p>
+   <center><input type=button id="close" class=inp value=Close></center>
+ </div>
+</div>
+
+<script src="jquery-3.6.4.min.js"></script>
+<script src="jquery.modal.min.js"></script>
+<script>
+document.fonts.load('25px vag-rounded-regular');
+
+$(function(){
+var img=['lanterne.jpg', 'noel.jpg', 'camping.jpg', 'bateau.jpg', 'ecole.jpg', 'cavalier.jpg', 'voile.jpg', 'demenage.jpg', 'violon.jpg', 'gaston.jpg', 'mongolfiere.jpg', 'indien.jpg', 'plage.jpg', 'zoo.jpg', 'ferme.jpg', 'quebec.jpg', 'mirror.jpg', 'contes.jpg', 'theatre.jpg', 'voyage.jpg', 'ours.jpg', 'ski.jpg', 'ir.jpg', 'accident.jpg', 'nature.jpg', 'cake.jpg', 'fantome.jpg', 'papy.jpg', 'ordinateur.jpg', 'princesse.jpg', 'cuisine.jpg', 'maman.jpg', 'rentree.jpg', 'surprise.jpg', 'avion.jpg', 'casserole.jpg', 'manege.jpg', 'train.jpg', 'menage.jpg', 'rouleau.jpg', 'cheval.jpg', 'vison.jpg']
+
+var select='lanterne.jpg';
+var mytext="...";
+var y=100;
+var title='martine';
+var color="#000000";
+
+
+
+var slider = document.getElementById("myRange");
+var output = document.getElementById("demo");
+
+
+allimg=[]
+
+load=function(n)
+{
+    var canvas=document.getElementById("cool");
+    var ctx=canvas.getContext("2d");
+    var ctx = canvas.getContext("2d");
+    var image = new Image();
+    image.src = "img/"+n;
+    image.onload = function() {
+	    ctx.drawImage(image, 0, 0, 350, 435);
+	    ctx.font = "25px vag-rounded-regular";
+	    ctx.fillStyle = color;
+	    ctx.fillText(mytext, 10, y);
+
+	    ctx.font = "85px vag-rounded-regular";
+	    ctx.fillStyle = color;
+	    ctx.fillText(title, 10, 90);
+    };
+
+}
+
+$("slider-color-picker").change(function(a){
+color=this.value;
+load(select);
+});
+
+$("#text").change(function(a) {
+console.log($(this).val() );
+mytext=$(this).val();
+load(select);
+})
+
+$("#stitle").change(function(a) {
+console.log($(this).val() );
+title=$(this).val();
+load(select);
+})
+
+
+
+topFunction=function() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0;
+}
+
+img.forEach(function(a) 
+	{
+		i =new Image();
+                c = new Image();
+		i.src = "img/low_"+a;
+                c.src = "img/"+a;
+                i.id =a;
+		allimg.push(i);
+  i.width=149;
+  i.height=186;
+  $("#vignette").append(i);
+  
+
+      $(i).click(function(idname) {
+      select=idname.target.id;
+      load(idname.target.id);
+      topFunction();
+	});
+
+
+	}
+)
+
+slider.oninput = function() {
+  load(select);
+  y=this.value;
+}
+
+$("#save").click(function(a) {
+canvas = document.getElementById("cool");
+image= canvas.toDataURL("image/png");
+$("#ex1 div p").html("<center><img style='width:100%' src='"+image+"'></center>")
+$("#ex1").modal()
+});
+
+
+$("#close").click(function(a) {
+$("#ex1 a").click();
+});
+
+load(select);
+});
+
+</script>
+
+</body>
+
+</html>
