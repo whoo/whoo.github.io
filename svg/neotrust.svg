@@ -5,9 +5,9 @@
  <desc>Vous aider à transformer votre sécurité pour mieux gérer les risques.</desc>
  <g transform="translate(61.017 -102.97)">
   <defs>
-   <clipPath id="5cb1dc6b-92ae-405b-adef-e30642e4e10d">
+   <!-- clipPath id="5cb1dc6b-92ae-405b-adef-e30642e4e10d">
     <path d="M 0,841.89 H 595.276 V 0 H 0 Z"/>
-   </clipPath>
+   </clipPath -->
   </defs>
   <path d="m282.65 437.64-14.844-124.82 72.872 62.413 17.542 86.165z" fill="#374bc3"/>
   <path d="m282.65 437.64-53.899 53.89 77.514 32.475 51.955-62.612z" fill="#647dff" />
