@@ -14,8 +14,8 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 
 <center>
 | Jour      | Nuit |
-| ----      | ----  |
-| 0x19 ans  | OpenSource |  
+| :----      | ----:  |
+| 0x19 XP  | OpenSource |  
 | Neotrust  |            |
 | vCISO     | CTF Builder/runner  |
 | iso27001 & NIST | ESP32, Docker, Vim |
@@ -27,10 +27,10 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 
 <center>
 | Jour      | Nuit |
-| ----      | ----  |
-| 0x19 ans  |   |  
+| :----      | ----:  |
+| 0x14 XP   |   |  
 | CGI       |   |
-| Vice-Président Cybersécurité           |   |
+| Vice-Président Cybersécurité     |  Hacking, Pentest |
 |           |   |
 </center>
 
