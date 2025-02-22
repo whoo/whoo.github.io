@@ -44,14 +44,14 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 👉 On peut apprendre de l'erreur des autres.<br>
 
 # Au Menu
-
+<img src="images/menu.jpg" height=70% style="float:left">
 <p style="font-size: 2em; line-height: 1em;">
 👉 Erreurs de configuration <br>
 👉 Les incidents<br>
 👉 L’humain restera l’humain<br>
 <p>
 
-# RM /save
+# Rm /save
 Pour aller plus vite les administrateurs sont créatifs à faire des raccoucis pour fluidifier leur gestion.<br>
 Un admin a fait : ln –s /opt/database/ /osave <br>
 Quelques jours plus tard pour faire le ménage un autre a fait : rm /osave/* <br>
@@ -75,8 +75,13 @@ Intervention chez un client c’est parti pour organiser, mais il manque quelque
 
 
 # Mot de passe
+<img src="images/password.jpg" width=30% style="float:left" >
 Le pire mot de passe que vous puissiez utiliser (et donc casser) ...
 
+# Mot de passe
+<center>
+<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+</center>
 
 
 
@@ -96,8 +101,12 @@ Un prestataire du client ouvre un billet pour faire l’installation d’un nouv
 
 
 
+<center>
+<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+</center>
 
-# Et encore ...
+
+# Le mot de la fin ...
 
 
 Même si 
