@@ -42,14 +42,16 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 👉 l’idée est de partager des évènements et cas réels ou adaptés.<br>
 👉 On se veut bienveillant.<br>
 👉 On peut apprendre de l'erreur des autres.<br>
+👉 ChatGPT n'a pas été maltraité durant la production de de ces slides<br>
 
 # Au Menu
-<img src="images/menu.jpg" height=70% style="float:left">
-<p style="font-size: 2em; line-height: 1em;">
-👉 Erreurs de configuration <br>
-👉 Les incidents<br>
-👉 L’humain restera l’humain<br>
-<p>
+<img src="images/menu.jpg" width=30% style="float:left; margin-right: 1em;">
+
+<span style="font-size:2em; line-height: 2em; " >
+🎮 Mode "INSERT COIN"<br>
+🕹️ Mode "LEVEL UP<br>
+👾 Mode "GAME OVER" <br>
+</span>
 
 # Rm /save
 Pour aller plus vite les administrateurs sont créatifs à faire des raccoucis pour fluidifier leur gestion.<br>
@@ -129,4 +131,26 @@ Même si
 <br>
 
 Les questions de sécurité ne vont pas disparaitre et les erreurs humaines ne vont pas s’arrêter.<br>
-Si on ne veut continuer à apprendre des erreurs une dose peu d’humour dans l’amélioration continue est nécessaire pour aller plus loin.
+Si l'on ne veut pas continuer à apprendre de ses erreurs, une dose d'humour dans l'amélioration continue est nécessaire pour avancer.
+
+
+<!-- C
+
+Mode "INSERT COIN"
+RM /save
+Backup
+Mot de passe
+Déclarer ou pas Déclarer 
+
+Mode "LEVEL UP"
+Mise à jour
+Load
+Prod Toujours
+Mysql
+
+Mode "GAME OVER"
+Gestion d’incident
+MDR Team
+Mais il y a quoi sur le réseau 
+Le phishing 
+--> 
