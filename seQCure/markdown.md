@@ -9,6 +9,8 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 ---
 
 # Dominique
+<img src=images/dominique.jpg width=20% style="float:left">
+<img src=images/dominique_16bit.png width=20% style="float:right">
 
 <center>
 | Jour      | Nuit |
@@ -20,14 +22,17 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 </center>
 
 # Pierre 
+<img src=images/pierre.jpg width=20% style="float:left">
+<img src=images/pierre_16bit.png width=20% style="float:right">
 
+<center>
 | Jour      | Nuit |
 | ----      | ----  |
 | 0x19 ans  |   |  
 | CGI       |   |
+| Vice-Président Cybersécurité           |   |
 |           |   |
-|           |   |
-
+</center>
 
 # Disclaimer
 <img src=images/moqueries.jpg style="float:left">
