@@ -1,0 +1,55 @@
+.titlepage { background-image: url('images.jpeg') ; 
+	background-repeat: no-repeat;
+  	background-size: 100% 100%; !important}
+
+
+.titlepage H1 {
+  color: white;
+  font-size:5em !important;
+}
+
+
+
+.section H1 { 
+  color: white; 
+  font-family: "Arial";
+  font-size: 30em;
+  font-style: normal;
+  margin: 0px;
+  background-color: #04AA6D !important;
+  border: none;
+  width: 100%;
+
+}
+
+.section {
+    background-image: url('abstract-violet.jpg') ; 
+	background-repeat: no-repeat;
+  	background-size: 100% 100%;
+
+}
+
+.author {
+color: white;
+margin-top: 6em;
+text-align: right; 
+}
+
+.section div {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.section p {
+  color: white; 
+ margin: 0px auto 0px auto;
+ width: 90%;
+!important;
+}
+
+.section iframe {
+  margin: 0px auto 0px auto;
+
+
+}
