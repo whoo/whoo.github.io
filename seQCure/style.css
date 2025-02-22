@@ -1,4 +1,4 @@
-.titlepage { background-image: url('images.jpeg') ; 
+.titlepage { background-image: url('images/arcade.webp') ; 
 	background-repeat: no-repeat;
   	background-size: 100% 100%; !important}
 
@@ -67,5 +67,15 @@ iframe {
 
 margin-left: 10pt;
 margin-right: 10pt;
+
+}
+
+#dominique {
+
+  background-image: url("abstract-violet-night.jpg");
+}
+
+#pierre {
+  background-image: url("abstract-violet-night.jpg");
 
 }

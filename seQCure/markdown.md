@@ -57,30 +57,27 @@ Un admin a fait : ln –s /opt/database/ /osave <br>
 Quelques jours plus tard pour faire le ménage un autre a fait : rm /osave/* <br>
 
 <center>
-<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+<iframe src=https://directpoll.com/r?XDbzPBdJ2bAX0ZEPvlvTWZByUTgjdorvoWJYhFRFnDkH1L0 > </iframe>
 </center>
 
 
-# Vote
+
+# Gestion d’incident
+
+Incident arrive, c’est dans la douleur qu’on apprend le plus vite… et c’est moins le fun.
+Intervention chez un client c’est parti pour organiser, mais il manque quelques éléments.
+
 
 <center>
 <iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
 </center>
 
-# Qui a raison
-
-C'est la classe avec un super truc
-C'est la classe avec un super truc
-C'est la classe avec un super truc
-C'est la classe avec un super truc
-C'est la classe avec un super truc
 
 
-# Vote
+# Mot de passe
+Le pire mot de passe que vous puissiez utiliser (et donc casser) ...
 
-<center>
-<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
-</center>
+
 
 
 # Payer ou pas payer
@@ -97,3 +94,19 @@ Pour faire des économies de couts nous avons simplifié la gestion de certifica
 Un certificat * coute un peu plus cher … mais on peut l’installer partout.<br>
 Un prestataire du client ouvre un billet pour faire l’installation d’un nouveau service.<br>
 
+
+
+
+# Et encore ...
+
+
+Même si 
+
+ 👉  l’amélioration continue, <br>
+ 👉   l’ia,<br>
+<br>
+<br>
+<br>
+
+Les questions de sécurité ne vont pas disparaitre et les erreurs humaines ne vont pas s’arrêter 
+Si on ne veut continuer à apprendre des erreurs une dose peu d’humour dans l’amélioration continue est nécessaire pour aller plus loin.
