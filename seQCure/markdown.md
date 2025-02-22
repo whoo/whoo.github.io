@@ -39,17 +39,17 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 
 
 👉 C’est drôle mais on ne se moque pas.<br>
-👉 l’idée est de partager des évènements et cas réel ou adapté.<br>
+👉 l’idée est de partager des évènements et cas réels ou adaptés.<br>
 👉 On se veut bienveillant.<br>
 👉 On peut apprendre de l'erreur des autres.<br>
 
 # Au Menu
 
-
-👉 Erreur de configuration <br>
+<p style="font-size: 2em; line-height: 1em;">
+👉 Erreurs de configuration <br>
 👉 Les incidents<br>
 👉 L’humain restera l’humain<br>
-
+<p>
 
 # RM /save
 Pour aller plus vite les administrateurs sont créatifs à faire des raccoucis pour fluidifier leur gestion.<br>
