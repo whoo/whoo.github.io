@@ -13,7 +13,7 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 <img src=images/dominique_16bit.png width=20% style="float:right">
 
 <center>
-| Jour      | Nuit |
+| Officiellement      | ... |
 | :----      | ----:  |
 | 0x19 XP  | OpenSource |  
 | Neotrust  |            |
@@ -26,7 +26,7 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 <img src=images/pierre_16bit.png width=20% style="float:right">
 
 <center>
-| Jour      | Nuit |
+| Officiellement      | ... |
 | :----      | ----:  |
 | 0x14 XP   |   |  
 | CGI       |   |
@@ -93,6 +93,17 @@ On arrive le lundi matin et il n'y a plus rien qui marche … C'est le drame ...
 </center>
 
 
+# MDR Team
+L’équipe utilise une équipe de réponse pour traiter les incidents, un service à plusieurs milliers de dollar par mois
+Ils remontent des alertes, déclenchement du plan d’escalade ... <br>
+Mais impossible de trouver les traces. 
+
+<center>
+<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+</center>
+
+
+
 
 # Certificats
 Pour faire des économies de couts nous avons simplifié la gestion de certificat.<br>
@@ -117,5 +128,5 @@ Même si
 <br>
 <br>
 
-Les questions de sécurité ne vont pas disparaitre et les erreurs humaines ne vont pas s’arrêter 
+Les questions de sécurité ne vont pas disparaitre et les erreurs humaines ne vont pas s’arrêter.<br>
 Si on ne veut continuer à apprendre des erreurs une dose peu d’humour dans l’amélioration continue est nécessaire pour aller plus loin.
