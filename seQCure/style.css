@@ -16,6 +16,7 @@
   font-size: 30em;
   font-style: normal;
   margin: 0px;
+  padding-top: 20pt;
   background-color: #04AA6D !important;
   border: none;
   width: 100%;
@@ -26,6 +27,7 @@
     background-image: url('abstract-violet.jpg') ; 
 	background-repeat: no-repeat;
   	background-size: 100% 100%;
+    padding: 0px !important;
 
 }
 
@@ -52,4 +54,9 @@ text-align: right;
   margin: 0px auto 0px auto;
 
 
+}
+
+
+.section table {
+  color: white;
 }
