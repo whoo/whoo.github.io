@@ -10,21 +10,30 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 
 # Dominique
 
+<center>
 | Jour      | Nuit |
 | ----      | ----  |
 | 0x19 ans  | OpenSource |  
 | Neotrust  |            |
 | vCISO     | CTF Builder/runner  |
 | iso27001 & NIST | ESP32, Docker, Vim |
+</center>
 
+# Pierre 
 
-# Pierre
+| Jour      | Nuit |
+| ----      | ----  |
+| 0x19 ans  |   |  
+| CGI       |   |
+|           |   |
+|           |   |
+
 
 # Disclaimer
+<img src=images/moqueries.jpg style="float:left">
+
 C’est drôle mais on ne se moque pas, l’idée est de partager des évènements et cas réel ou adapté.<br>
 On se veut bienveillant.
-
-![url]
 
 
 
@@ -34,9 +43,6 @@ Un admin a fait : ln –s /opt/database/ /osave <br>
 Quelques jours plus tard pour faire le ménage un autre a fait : rm /osave/* <br>
 
 
-<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 width=80% height=80%> </iframe>
-
-
 # Qui a raison
 
 C'est la classe avec un super truc
@@ -47,7 +53,9 @@ C'est la classe avec un super truc
 
 # Vote
 
-<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 width=80% height=80%> </iframe>
+<center>
+<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+</center>
 
 # Qui a raison
 
@@ -60,17 +68,18 @@ C'est la classe avec un super truc
 
 # Vote
 
-<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 width=80% height=80%> </iframe>
-
-
-
-<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 width=80% height=80%> </iframe>
+<center>
+<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+</center>
 
 
 # Payer ou pas payer
 On arrive le lundi matin et il n'y a plus rien qui marche … C'est le drame ... on nous demande une rançon. La totalité des fichiers de l'entreprise sont chiffrés et pour les récupérer il faut payer, alors on fait quoi ?
 
-<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 width=80% height=80%> </iframe>
+<center>
+<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+</center>
+
 
 
 # Certificats
