@@ -15,9 +15,9 @@
   font-family: "Arial";
   font-size: 30em;
   font-style: normal;
-  margin: 0px;
   padding-top: 20pt;
   padding-left: 20pt !important;
+  margin-bottom: 10% !important;
   background-color: #04AA6D !important;
   border: none;
   width: 100%;
@@ -46,7 +46,7 @@ text-align: right;
 
 .section p {
   color: white; 
- margin: 0px auto 0px auto;
+ margin: 0em auto 0px auto;
  width: 90%;
 !important;
 }
@@ -59,4 +59,11 @@ iframe {
 
 .section table {
   color: white;
+}
+
+.section img {
+
+margin-left: 10pt;
+margin-right: 10pt;
+
 }

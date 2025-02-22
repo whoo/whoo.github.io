@@ -1,5 +1,5 @@
 ---
-title:  "Histoire d'Erreurs"
+title:  "Histoire<br> d'Erreurs"
 author:
 - Dominique Derrier
 - Pierre Lecalvez
@@ -32,9 +32,18 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 # Disclaimer
 <img src=images/moqueries.jpg style="float:left">
 
-C’est drôle mais on ne se moque pas, l’idée est de partager des évènements et cas réel ou adapté.<br>
-On se veut bienveillant.
 
+👉 C’est drôle mais on ne se moque pas.<br>
+👉 l’idée est de partager des évènements et cas réel ou adapté.<br>
+👉 On se veut bienveillant.<br>
+👉 On peut apprendre de l'erreur des autres.<br>
+
+# Au Menu
+
+
+👉 Erreur de configuration <br>
+👉 Les incidents<br>
+👉 L’humain restera l’humain<br>
 
 
 # RM /save
@@ -42,14 +51,10 @@ Pour aller plus vite les administrateurs sont créatifs à faire des raccoucis p
 Un admin a fait : ln –s /opt/database/ /osave <br>
 Quelques jours plus tard pour faire le ménage un autre a fait : rm /osave/* <br>
 
+<center>
+<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+</center>
 
-# Qui a raison
-
-C'est la classe avec un super truc
-C'est la classe avec un super truc
-C'est la classe avec un super truc
-C'est la classe avec un super truc
-C'est la classe avec un super truc
 
 # Vote
 
