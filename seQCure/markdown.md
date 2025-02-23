@@ -65,7 +65,7 @@ Lors d'un pentest, l'idée est de recueillir des mots de passe pour en éprouver
 
 # Mot de passe
 <center>
-<iframe src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+<iframe src=https://directpoll.com/r?XDbzPBdJ2bAX0ZEPvlvTWZByUTgjdorvoWJYhFRFnDkH1L0 > </iframe>
 </center>
 
 # Mise à jour
@@ -74,7 +74,7 @@ Le monitoring, MRTG, PRTG, Zabbix, Datadog, Prometheus... Il existe des milliers
 
 # Mise à jour
 <center>
-<iframe data-slide-id=2 src=https://directpoll.com/r?XDbzPBdJ2bAX0ZEPvlvTWZByUTgjdorvoWJYhFRFnDkH1L0 > </iframe>
+<iframe data-slide-id=2 src=https://directpoll.com/r?XDbzPBdJ3cBY1aFQwmwUXaCzVUhkepswpXKZiGSGoElI2M1 > </iframe>
 </center>
 
 # Droit d'admin
@@ -82,14 +82,15 @@ Grosse activité sur le réseau d'administration, celui qui n'est pas connecté 
 
 # Droit d'admin
 <center>
-<iframe data-slide-id=3 src=https://directpoll.com/r?XDbzPBdJ2bAX0ZEPvlvTWZByUTgjdorvoWJYhFRFnDkH1L0 > </iframe>
+<iframe data-slide-id=3 src=https://directpoll.com/r?XDbzPBdJ4dCZ2bGRxnxVYbD0WVilfqtxqYLajHTHpFmJ3N2 > </iframe>
 </center>
 
 # Sur Le réseaux
+La lettre de mandat est signée, le test est planifié, l'équipe lance la phase de reconnaissance dans l'entreprise. Comme c'est le premier test, l'équipe sait qu'elle va trouver des surprises. A priori, le directeur TI avait pensé à l'externalisation du NAS sur son lieu de travail.
 
 # Sur Le réseaux
 <center>
-<iframe data-slide-id=4 src=https://directpoll.com/r?XDbzPBdJ2bAX0ZEPvlvTWZByUTgjdorvoWJYhFRFnDkH1L0 > </iframe>
+<iframe data-slide-id=4 src=https://directpoll.com/r?XDbzPBdJ5eDa3cHSyoyWZcE1XWjmgruyrZMbkIUIqGnK4O3 > </iframe>
 </center>
 
 # Prod Toujours
@@ -100,7 +101,7 @@ Et comme un incident n'arrive jamais seul, La procédure de rollback n’a pas �
 
 # Prod Toujours
 <center>
-<iframe data-slide-id=5 src=https://directpoll.com/r?XDbzPBdJ2bAX0ZEPvlvTWZByUTgjdorvoWJYhFRFnDkH1L0 > </iframe>
+<iframe data-slide-id=5 src=https://directpoll.com/r?XDbzPBdJ6fEb4dITzpzXadF2YXknhsvzsaNclJVJrHoL5P4 > </iframe>
 </center>
 
 # ⚠️ WARNING! LOW HEALTH 
@@ -111,7 +112,7 @@ Une compagnie vous appelle pour l'aider pendant une fraude téléphonique. En ef
 
 # Fraude Telephonique
 <center>
-<iframe data-slide-id=6 src=https://directpoll.com/r?XDbzPBdJ2bAX0ZEPvlvTWZByUTgjdorvoWJYhFRFnDkH1L0 > </iframe>
+<iframe data-slide-id=6 src=https://directpoll.com/r?XDbzPBdJ7gFc5eJU0q0YbeG3ZYloitw0tbOdmKWKsIpM6Q5 > </iframe>
 </center>
 
 # Mysql
@@ -119,7 +120,7 @@ Erreur d’indisponibilité sur un serveur client à forte consultation : la bas
 
 # Mysql
 <center>
-<iframe data-slide-id=7 src=https://directpoll.com/r?XDbzPBdJ2bAX0ZEPvlvTWZByUTgjdorvoWJYhFRFnDkH1L0 > </iframe>
+<iframe data-slide-id=7 src=https://directpoll.com/r?XDbzPBdJ8hGd6fKV1r1ZcfH4aZmpjux1ucPenLXLtJqN7R6 > </iframe>
 </center>
 
 # Rm /save
@@ -130,7 +131,7 @@ Quelques jours plus tard pour faire le ménage un autre a fait : rm /osave/* <br
 
 # Rm /save
 <center>
-<iframe data-slide-id=8 src=https://directpoll.com/r?XDbzPBdJ2bAX0ZEPvlvTWZByUTgjdorvoWJYhFRFnDkH1L0 > </iframe>
+<iframe data-slide-id=8 src=https://directpoll.com/r?XDbzPBdJ9iHe7gLW2s2adgI5banqkvy2vdQfoMYMuKrO8S7 > </iframe>
 </center>
 
 # Déclarer ou pas Déclarer 
@@ -138,7 +139,7 @@ On arrive le lundi matin et il n'y a plus rien qui marche… C'est le drame… O
 
 # Déclarer ou pas Déclarer 
 <center>
-<iframe data-slide-id=9 src=https://directpoll.com/r?XDbzPBdJ5eDa3cHSyoyWZcE1XWjmgruyrZMbkIUIqGnK4O3 > </iframe>
+<iframe data-slide-id=9 src=https://directpoll.com/r?XDbzPBdJAjIf8hMX3t3behJ6cborlwz3weRgpNZNvLsP9T8 > </iframe>
 </center>
 
 
@@ -149,7 +150,7 @@ Mais il est impossible de trouver les traces.
 
 # MDR Team
 <center>
-<iframe data-slide-id=10 src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+<iframe data-slide-id=10 src=https://directpoll.com/r?XDbzPBdJBkJg9iNY4u4cfiK7dcpsmx04xfShqOaOwMtQAU9 > </iframe>
 </center>
 
 
@@ -163,7 +164,7 @@ Intervention chez un client c’est parti pour organiser, mais il manque quelque
 
 # Gestion d’incident
 <center>
-<iframe data-slide-id=11 src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+<iframe data-slide-id=11 src=https://directpoll.com/r?XDbzPBdJ3gZuSeQCHZdZ5ND4i8RQeHfpnSOxAYtKzRBUCfCy > </iframe>
 </center>
 
 # Le Blackberry Perdu
@@ -172,14 +173,19 @@ Et à votre avis … dans un telephone il y a quoi ?
 
 # Le Blackberry Perdu
 <center>
-<iframe data-slide-id=12 src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+<iframe data-slide-id=12 src=https://directpoll.com/r?XDbzPBdJ3havTfRDIaea6OE5j9SRfIgqoTPyBZuL0SCVDgDz > </iframe>
 </center>
 
 # Recovery
+L’accident est malheureusement arrivé, il devait arriver car il n’y avait pas de patch, un musée archéologique.  
+Confinement, éradication et récupération.  
+
+C’est le moment de vérifier où sont les sauvegardes... et les retrouver : Mais.
+
 
 # Recovery
 <center>
-<iframe data-slide-id=13 src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+<iframe data-slide-id=13 src=https://directpoll.com/r?XDbzPBdJ3ibwUgSEJbfb7PF6kATSgJhrpUQzCavM1TDWEhE0 > </iframe>
 </center>
 
 
@@ -189,7 +195,7 @@ Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 
 # Phishing
 <center>
-<iframe data-slide-id=14 src=https://directpoll.com/r?XDbzPBdEt8j1rJNz3zlqeT1gleve6wtsoNq1KjIzViT2d5 > </iframe>
+<iframe data-slide-id=14 src=https://directpoll.com/r?XDbzPBdJ3jcxVhTFKcgc8QG7lBUThKisqVR0DbwN2UEXFiF1 > </iframe>
 </center>
 
 
