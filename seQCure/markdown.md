@@ -38,8 +38,8 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 <img src=images/moqueries.jpg style="float:left">
 
 
+👉 Les histoires sont toutes vraies.<br>
 👉 C’est drôle mais on ne se moque pas.<br>
-👉 l’idée est de partager des évènements et cas réels ou adaptés.<br>
 👉 On se veut bienveillant.<br>
 👉 On peut apprendre de l'erreur des autres.<br>
 👉 Attention certaine section sont NSFW<br>
@@ -103,6 +103,7 @@ La lettre de mandat est signée, le test est planifié, l'équipe lance la phase
 </center>
 
 # Prod Toujours
+<img src="images/alwayson.webp" width=30% style="float: right">
 Le client qui effectue une loterie quotidienne avec 100 000 utilisateurs doit avoir une mise à jour.<br> 
 La mise à jour a été lancée sur le système. <br>
 A priori, le CAB n’a pas été bien réalisé... Évidemment, la machine n’a pas redémarré. <br>
@@ -117,7 +118,9 @@ Et comme un incident n'arrive jamais seul, La procédure de rollback n’a pas �
 Les menaces et incidents à surveiller (ou pas)
 
 # Fraude Telephonique
-Une compagnie vous appelle pour l'aider pendant une fraude téléphonique. En effet, elle s'est rendu compte de la mise en place d'une redirection téléphonique vers un numéro surtaxé (que vous maîtrisez). Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande un devis pour l'aider.
+<img src="images/phone.webp" width=30% style='float: left'>
+Une compagnie vous appelle pour l'aider pendant une fraude téléphonique. En effet, elle s'est rendu compte de la mise en place d'une redirection téléphonique vers un numéro surtaxé (que vous maîtrisez).<br>
+Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande un devis pour l'aider.
 
 # Fraude Telephonique
 <center>
@@ -168,6 +171,7 @@ Mais il est impossible de trouver les traces.
 Quand tout part en vrille
 
 # Gestion d’incident
+<img src="images/Gaston.webp" width=30% style='float:left'>
 Incident arrive, c’est dans la douleur qu’on apprend le plus vite… et c’est moins le fun.
 Intervention chez un client c’est parti pour organiser, mais il manque quelques éléments.
 
