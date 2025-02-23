@@ -50,12 +50,13 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 <img src="images/menu.jpg" width=30% style="float:left; margin-right: 1em;">
 
 <span style="font-size:2em; line-height: 2em; " >
-🎮 INSERT COIN<br>
-🎰 WARNING! LOW HEALTH <br>
-👾 GAME OVER <br>
+🕹️ INSERT COIN<br>
+⚠️ WARNING! LOW HEALTH  <br>
+💀 GAME OVER <br>
 </span>
 
-# INSERT COIN
+# 🕹️ INSERT COIN 
+Les bases indispensables ...
 
 # Mot de passe
 <img src="images/password.jpg" width=30% style="float:left" >
@@ -103,6 +104,7 @@ Et comme un incident n'arrive jamais seul, La procédure de rollback n’a pas �
 </center>
 
 # ⚠️ WARNING! LOW HEALTH 
+Les menaces et incidents à surveiller (ou pas)
 
 # Fraude Telephonique
 Une compagnie vous appelle pour l'aider pendant une fraude téléphonique. En effet, elle s'est rendu compte de la mise en place d'une redirection téléphonique vers un numéro surtaxé (que vous maîtrisez). Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande un devis pour l'aider.
@@ -153,6 +155,7 @@ Mais il est impossible de trouver les traces.
 
 
 # 💀 GAME OVER
+Quand tout part en vrille
 
 # Gestion d’incident
 Incident arrive, c’est dans la douleur qu’on apprend le plus vite… et c’est moins le fun.
