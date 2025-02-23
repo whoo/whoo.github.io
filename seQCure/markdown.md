@@ -133,6 +133,7 @@ Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande u
 </center>
 
 # Mysql
+<img src="images/groundhog-day-wake-up.gif" width=30% style="float:right">
 Erreur d’indisponibilité sur un serveur client à forte consultation : la base ne répond plus à la même heure chaque jour. Cela fait plusieurs jours que cela dure.
 
 # Mysql
