@@ -152,7 +152,8 @@ Quelques jours plus tard pour faire le ménage un autre a fait : rm /osave/* <br
 <iframe data-slide-id=8 src=https://directpoll.com/r?XDbzPBdJ9iHe7gLW2s2adgI5banqkvy2vdQfoMYMuKrO8S7 > </iframe>
 </center>
 
-# Déclarer ou pas Déclarer 
+# Déclarer ou pas Déclarer
+<img src="images/ransomware.jpg" width=50% style='float:left'>
 On arrive le lundi matin et il n'y a plus rien qui marche… C'est le drame… On nous demande une rançon. La totalité des fichiers de l'entreprise est chiffrée et, pour les récupérer, il faut payer. Alors, que fait-on ?
 
 # Déclarer ou pas Déclarer 
