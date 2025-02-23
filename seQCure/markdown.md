@@ -96,7 +96,7 @@ Grosse activité sur le réseau d'administration, celui qui n'est pas connecté 
 </center>
 
 # Sur Le réseaux
-La lettre de mandat est signée, le test est planifié, l'équipe lance la phase de reconnaissance dans l'entreprise. Comme c'est le premier test, l'équipe sait qu'elle va trouver des surprises. A priori, le directeur TI avait pensé à l'externalisation du NAS sur son lieu de travail.
+La lettre de mandat est signée, le test est planifié, l'équipe lance la phase de reconnaissance dans l'entreprise. Comme c'est le premier test, l'équipe sait qu'elle va trouver des surprises. A priori, le directeur TI avait pensé à l'externalisation de son NAS personnel sur son lieu de travail.
 
 # Sur Le réseaux
 <center>
@@ -141,7 +141,7 @@ Erreur d’indisponibilité sur un serveur client à forte consultation : la bas
 # Rm /save
 <img src="images/shell.png" width=30% style="float:right">
 Pour aller plus vite les administrateurs sont créatifs à faire des raccoucis pour fluidifier leur gestion.<br>
-Un admin a fait : ln –s /opt/database/ /osave <br>
+Un admin a fait : ```console ln –s /opt/database/ /osave ```<br> 
 Quelques jours plus tard pour faire le ménage un autre a fait : rm /osave/* <br>
 
 # Rm /save
