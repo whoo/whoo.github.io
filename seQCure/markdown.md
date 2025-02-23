@@ -45,7 +45,6 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 👉 Attention certaine section sont NSFW<br>
 👉 ChatGPT n'a pas été maltraité durant la production de ces slides<br>
 
-
 # Au Menu
 <img src="images/menu.jpg" width=30% style="float:left; margin-right: 1em;">
 
@@ -64,8 +63,10 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 </center>
 
 # 🕹️ INSERT COIN 
-Les bases indispensables ...
 
+<p class="note">
+Les bases indispensables ...
+</p>
 
 # Mot de passe
 <img src="images/password.jpg" width=30% style="float:left" >
@@ -115,7 +116,9 @@ Et comme un incident n'arrive jamais seul, La procédure de rollback n’a pas �
 </center>
 
 # ⚠️ WARNING! LOW HEALTH 
+<p class="note">
 Les menaces et incidents à surveiller (ou pas)
+</p>
 
 # Fraude Telephonique
 <img src="images/phone.webp" width=30% style='float: left'>
@@ -168,7 +171,9 @@ Mais il est impossible de trouver les traces.
 
 
 # 💀 GAME OVER
+<p class="note">
 Quand tout part en vrille
+</p>
 
 # Gestion d’incident
 <img src="images/Gaston.webp" width=30% style='float:left'>
