@@ -195,6 +195,7 @@ Et à votre avis … dans un telephone il y a quoi ?
 </center>
 
 # Recovery
+<img src="images/backup.jpeg" width=30% style="float: right">
 L’accident est malheureusement arrivé, il devait arriver car il n’y avait pas de patch, un musée archéologique.  
 Confinement, éradication et récupération.  
 
