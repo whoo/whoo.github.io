@@ -38,20 +38,20 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 <img src=images/moqueries.jpg style="float:left">
 
 
-👉 Les histoires sont toutes vraies.<br>
-👉 C’est drôle mais on ne se moque pas.<br>
-👉 On se veut bienveillant.<br>
-👉 On peut apprendre de l'erreur des autres.<br>
-👉 Attention certaines sections sont NSFW.<br>
-👉 ChatGPT n'a pas été maltraité durant la production de ces slides.<br>
+👉 Les histoires sont toutes vraies ;<br>
+👉 C’est drôle mais on ne se moque pas ;<br>
+👉 On se veut bienveillant ;<br>
+👉 On peut apprendre de l'erreur des autres ;<br>
+👉 Attention certaines sections sont NSFW ;<br>
+👉 Aucun ChatGPT n'a pas été maltraité durant la production de ces slides.<br>
 
 # Au Menu
 <img src="images/menu.jpg" width=30% style="float:left; margin-right: 1em;">
 
 <span style="font-size:2em; line-height: 2em; " >
-🕹️ INSERT COIN<br>
-⚠️ WARNING! LOW HEALTH  <br>
-💀 GAME OVER <br>
+🕹️ INSERT COIN ;<br>
+⚠️ WARNING! LOW HEALTH ;<br>
+💀 GAME OVER ;<br>
 </span>
 
 
@@ -70,8 +70,8 @@ Les bases indispensables ...
 
 # Mot de passe
 <img src="images/password.jpg" width=30% style="float:left" >
-Le pire mot de passe que vous puissiez utiliser (et donc cracker)...
-Lors d'un pentest, l'idée est de recueillir des mots de passe pour en éprouver la solidité.
+Lors d'un pentest, l'idée est de recueillir un maximum de condensats de mots de passe pour en éprouver la solidité. <br>
+C'est quoi le pire mot de passe que vous puissiez utiliser (et donc cracker)...
 
 # Mot de passe
 <center>
@@ -79,7 +79,7 @@ Lors d'un pentest, l'idée est de recueillir des mots de passe pour en éprouver
 </center>
 
 # Mise à jour
-
+<img src="images/monitoring.jpg" width=30% style="float:left" >
 Le monitoring, MRTG, PRTG, Zabbix, Datadog, Prometheus... Il existe des milliers d’outils pour avoir une visibilité essentielle afin de traiter et d'aider à la gestion des incidents. La mise à jour est nécessaire pour garder une gestion optimale.
 
 # Mise à jour
