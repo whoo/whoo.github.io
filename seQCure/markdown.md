@@ -55,8 +55,17 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 💀 GAME OVER <br>
 </span>
 
+
+
+# Participez
+
+<center>
+<iframe src=https://directpoll.com/r?XDbzPBdJqE7S0Cykp7B7dvlcGgzyCpDNL0wVi6RsXzj2kDkW > </iframe>
+</center>
+
 # 🕹️ INSERT COIN 
 Les bases indispensables ...
+
 
 # Mot de passe
 <img src="images/password.jpg" width=30% style="float:left" >
