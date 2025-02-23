@@ -1,5 +1,5 @@
 ---
-title:  "Histoire d'Erreurs"
+title:  "Histoires<br>&nbsp;&nbsp;d'Erreurs"
 author:
 - Dominique Derrier
 - Pierre Le Calvez
@@ -186,8 +186,9 @@ Intervention chez un client c’est parti pour organiser, mais il manque quelque
 </center>
 
 # Le Blackberry Perdu
-Mais où sont jeté les anciens téléphones ? Dans les poubelles biensur...
-Et à votre avis … dans un telephone il y a quoi ?
+<img src="images/trash.jpg" width=30% style="float: left">
+Mais où sont jetés les anciens téléphones ? Dans les poubelles, bien sûr...  <br>
+Et à votre avis, dans un téléphone, il y a quoi ?
 
 # Le Blackberry Perdu
 <center>
@@ -237,9 +238,6 @@ Si l'on ne veut pas continuer à apprendre de ses erreurs, une dose d'humour dan
 
 #
 
-<center>
-<iframe src="https://directpoll.com/r?XDbzPBdJqE7S0Cykp7B7dvlcGgzyCpDNL0wVi6RsXzj2kDkW"></iframe>
-</center>
 
 <script>
 

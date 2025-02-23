@@ -18,9 +18,12 @@
   font-size: 30em;
   font-style: normal;
   padding-top: 20pt;
+  padding-bottom: 20pt !important ;
   padding-left: 20pt !important;
   margin-bottom: 10% !important;
-  background-color: rgba(255, 0, 0, 0.4) !important;
+  /*background-color: rgba(255, 0, 0, 0.4) !important; */
+  background: rgb(255,0,0) !important;
+  background: linear-gradient(90deg, rgba(255, 0, 0, 0.689) 10%, rgba(0,212,255,0) 100%) !important;
   border: none;
   width: 100%;
 
