@@ -88,7 +88,7 @@ Le monitoring, MRTG, PRTG, Zabbix, Datadog, Prometheus... Il existe des milliers
 </center>
 
 # Droit d'admin
-<img src="images/Firewall.jpg" width=30% style="float:left" >
+<img src="images/firewall.jpg" width=30% style="float:left" >
 Grosse activité sur le réseau d'administration, celui qui n'est pas connecté à Internet mais il permet de relier l'entrerprise à tous ses clients. Le firewall a le CPU dans le tapis. Il y a trop de drops dans les logs qui saturent le CPU.
 
 # Droit d'admin
