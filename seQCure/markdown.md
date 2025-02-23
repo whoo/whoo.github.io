@@ -209,7 +209,9 @@ C’est le moment de vérifier où sont les sauvegardes... et les retrouver : Ma
 
 
 # Phishing
+<img src="images/phishing.jpeg" width=30% style="float: right">
 La sensibilisation par le phishing est l'un des premiers outils de sensibilisation marquants pour les équipes et les entreprises de toute taille qui utilisent l'informatique. <br>
+<br>
 Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 
 # Phishing
@@ -222,13 +224,12 @@ Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 # Le mot de la fin ...
 
 Même si 
-
- 👉  l’amélioration continue, <br>
- 👉   l’ia,<br>
+<br>
+ 👉  l’amélioration continue ; <br>
+ 👉  l'intelligence artificielle ; <br>
 <br>
 <br>
 <br>
-
 Les questions de sécurité ne vont pas disparaitre et les erreurs humaines ne vont pas s’arrêter.<br>
 Si l'on ne veut pas continuer à apprendre de ses erreurs, une dose d'humour dans l'amélioration continue est nécessaire pour avancer.
 
