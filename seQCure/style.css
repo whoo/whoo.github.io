@@ -1,6 +1,8 @@
-.titlepage { background-image: url('images/arcade.webp') ; 
+.titlepage { 
+  background-image: url('images/arcade.webp') ; 
 	background-repeat: no-repeat;
-  	background-size: 100% 100%; !important}
+  	background-size: 100% 100% !important;
+  }
 
 
 .titlepage H1 {
@@ -47,8 +49,7 @@ text-align: right;
 .section p {
   color: white; 
  margin: 0em auto 0px auto;
- width: 90%;
-!important;
+ width: 90% !important;
 }
 
 iframe {
@@ -81,6 +82,12 @@ margin-right: 10pt;
 }
 
 
+#insert-coin { background-image: url("images/insert_coin.webp");}
+#warning-low-health { background-image: url("images/low-health.webp");}
+#game-over { background-image: url("images/gameover.webp"); }
+
+
+
 #mot-de-passe, #mot-de-passe-1 { background-image: url("images/abstract-violet-pierre.jpg");}
 #mise-à-jour, #mise-à-jour-1 { background-image: url("images/abstract-violet-dde.jpg");}
 #droit-dadmin, #droit-dadmin-1 { background-image: url("images/abstract-violet-dde.jpg");}
@@ -95,3 +102,4 @@ margin-right: 10pt;
 #le-blackberry-perdu, #le-blackberry-perdu-1 { background-image: url("images/abstract-violet-pierre.jpg");}
 #recovery, #recovery-1 { background-image: url("images/abstract-violet-dde.jpg");}
 #phishing, #phishing-1 { background-image: url("images/abstract-violet-pierre.jpg");}
+
