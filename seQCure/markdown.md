@@ -38,20 +38,20 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 <img src=images/moqueries.jpg style="float:left">
 
 
-👉 Les histoires sont toutes vraies.<br>
-👉 C’est drôle mais on ne se moque pas.<br>
-👉 On se veut bienveillant.<br>
-👉 On peut apprendre de l'erreur des autres.<br>
-👉 Attention certaines sections sont NSFW.<br>
-👉 ChatGPT n'a pas été maltraité durant la production de ces slides.<br>
+👉 Les histoires sont toutes vraies ;<br>
+👉 C’est drôle mais on ne se moque pas ;<br>
+👉 On se veut bienveillant ;<br>
+👉 On peut apprendre de l'erreur des autres ;<br>
+👉 Attention certaines sections sont NSFW ;<br>
+👉 Aucun ChatGPT n'a pas été maltraité durant la production de ces slides.<br>
 
 # Au Menu
 <img src="images/menu.jpg" width=30% style="float:left; margin-right: 1em;">
 
 <span style="font-size:2em; line-height: 2em; " >
-🕹️ INSERT COIN<br>
-⚠️ WARNING! LOW HEALTH  <br>
-💀 GAME OVER <br>
+🕹️ INSERT COIN ;<br>
+⚠️ WARNING! LOW HEALTH ;<br>
+💀 GAME OVER ;<br>
 </span>
 
 
@@ -70,8 +70,8 @@ Les bases indispensables ...
 
 # Mot de passe
 <img src="images/password.jpg" width=30% style="float:left" >
-Le pire mot de passe que vous puissiez utiliser (et donc cracker)...
-Lors d'un pentest, l'idée est de recueillir des mots de passe pour en éprouver la solidité.
+Lors d'un pentest, l'idée est de recueillir un maximum de condensats de mots de passe pour en éprouver la solidité. <br>
+C'est quoi le pire mot de passe que vous puissiez utiliser (et donc cracker)...
 
 # Mot de passe
 <center>
@@ -79,7 +79,7 @@ Lors d'un pentest, l'idée est de recueillir des mots de passe pour en éprouver
 </center>
 
 # Mise à jour
-
+<img src="images/monitoring.jpg" width=30% style="float:left" >
 Le monitoring, MRTG, PRTG, Zabbix, Datadog, Prometheus... Il existe des milliers d’outils pour avoir une visibilité essentielle afin de traiter et d'aider à la gestion des incidents. La mise à jour est nécessaire pour garder une gestion optimale.
 
 # Mise à jour
@@ -88,7 +88,8 @@ Le monitoring, MRTG, PRTG, Zabbix, Datadog, Prometheus... Il existe des milliers
 </center>
 
 # Droit d'admin
-Grosse activité sur le réseau d'administration, celui qui n'est pas connecté à Internet mais qui permet de relier tous les clients. Le firewall a le CPU dans le tapis. Il y a trop de drops dans les logs qui saturent le CPU.
+<img src="images/firewall.jpg" width=30% style="float:left" >
+Grosse activité sur le réseau d'administration, celui qui n'est pas connecté à Internet mais il permet de relier l'entrerprise à tous ses clients. Le firewall a le CPU dans le tapis. Il y a trop de drops dans les logs qui saturent le CPU.
 
 # Droit d'admin
 <center>
@@ -96,7 +97,8 @@ Grosse activité sur le réseau d'administration, celui qui n'est pas connecté 
 </center>
 
 # Sur Le réseaux
-La lettre de mandat est signée, le test est planifié, l'équipe lance la phase de reconnaissance dans l'entreprise. Comme c'est le premier test, l'équipe sait qu'elle va trouver des surprises. A priori, le directeur TI avait pensé à l'externalisation du NAS sur son lieu de travail.
+<img src="images/NAS.jpg" width=30% style="float:left" >
+La lettre de mandat est signée, le test est planifié, l'équipe lance la phase de reconnaissance dans l'entreprise. Comme c'est le premier test, l'équipe sait qu'elle va trouver des surprises. A priori, le directeur TI avait pensé à l'externalisation de son NAS personnel sur son lieu de travail.
 
 # Sur Le réseaux
 <center>
@@ -131,6 +133,7 @@ Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande u
 </center>
 
 # Mysql
+<img src="images/groundhog-day-wake-up.gif" width=30% style="float:right">
 Erreur d’indisponibilité sur un serveur client à forte consultation : la base ne répond plus à la même heure chaque jour. Cela fait plusieurs jours que cela dure.
 
 # Mysql
@@ -141,7 +144,7 @@ Erreur d’indisponibilité sur un serveur client à forte consultation : la bas
 # Rm /save
 <img src="images/shell.png" width=30% style="float:right">
 Pour aller plus vite les administrateurs sont créatifs à faire des raccoucis pour fluidifier leur gestion.<br>
-Un admin a fait : ln –s /opt/database/ /osave <br>
+Un admin a fait : ln –s /opt/database/ /osave <br> 
 Quelques jours plus tard pour faire le ménage un autre a fait : rm /osave/* <br>
 
 # Rm /save
@@ -186,9 +189,9 @@ Intervention chez un client c’est parti pour organiser, mais il manque quelque
 </center>
 
 # Le Blackberry Perdu
-<img src="images/trash.jpg" width=30% style="float: left">
-Mais où sont jetés les anciens téléphones ? Dans les poubelles, bien sûr...  <br>
-Et à votre avis, dans un téléphone, il y a quoi ?
+<img src="images/blackberry.jpg" width=30% style='float:left'>
+Mais où sont jeté les anciens téléphones ? Dans les poubelles biensur...<br>
+Et à votre avis … dans un telephone il y a quoi ?<br>
 
 # Le Blackberry Perdu
 <center>
@@ -197,8 +200,8 @@ Et à votre avis, dans un téléphone, il y a quoi ?
 
 # Recovery
 <img src="images/backup.jpeg" width=30% style="float: right">
-L’accident est malheureusement arrivé, il devait arriver car il n’y avait pas de patch, un musée archéologique.  
-Confinement, éradication et récupération.  
+L’accident est malheureusement arrivé, il devait arriver car il n’y avait pas de patch, un musée archéologique.<br>
+Confinement, éradication et récupération.<br>
 
 C’est le moment de vérifier où sont les sauvegardes... et les retrouver : Mais.
 
@@ -210,7 +213,9 @@ C’est le moment de vérifier où sont les sauvegardes... et les retrouver : Ma
 
 
 # Phishing
+<img src="images/phishing.jpeg" width=30% style="float: right">
 La sensibilisation par le phishing est l'un des premiers outils de sensibilisation marquants pour les équipes et les entreprises de toute taille qui utilisent l'informatique. <br>
+<br>
 Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 
 # Phishing
@@ -223,13 +228,12 @@ Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 # Le mot de la fin ...
 
 Même si 
-
- 👉  l’amélioration continue, <br>
- 👉   l’ia,<br>
+<br>
+ 👉  l’amélioration continue ; <br>
+ 👉  l'intelligence artificielle ; <br>
 <br>
 <br>
 <br>
-
 Les questions de sécurité ne vont pas disparaitre et les erreurs humaines ne vont pas s’arrêter.<br>
 Si l'on ne veut pas continuer à apprendre de ses erreurs, une dose d'humour dans l'amélioration continue est nécessaire pour avancer.
 
