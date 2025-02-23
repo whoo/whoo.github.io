@@ -79,3 +79,19 @@ margin-right: 10pt;
   background-image: url("abstract-violet-night.jpg");
 
 }
+
+
+#mot-de-passe, #mot-de-passe-1 { background-image: url("images/abstract-violet-pierre.jpg");}
+#mise-à-jour, #mise-à-jour-1 { background-image: url("images/abstract-violet-dde.jpg");}
+#droit-dadmin, #droit-dadmin-1 { background-image: url("images/abstract-violet-dde.jpg");}
+#sur-le-réseaux, #sur-le-réseaux-1 { background-image: url("images/abstract-violet-pierre.jpg");}
+#prod-toujours, #prod-toujours-1 { background-image: url("images/abstract-violet-dde.jpg");}
+#fraude-telephonique, #fraude-telephonique-1 { background-image: url("images/abstract-violet-pierre.jpg");}
+#mysql, #mysql-1{ background-image: url("images/abstract-violet-dde.jpg");}
+#rm-save, #rm-save-1 { background-image: url("images/abstract-violet-dde.jpg");}
+#déclarer-ou-pas-déclarer, #déclarer-ou-pas-déclarer-1 { background-image: url("images/abstract-violet-pierre.jpg");}
+#mdr-team, #mdr-team-1 { background-image: url("images/abstract-violet-dde.jpg");}
+#gestion-dincident, #gestion-dincident-1 { background-image: url("images/abstract-violet-dde.jpg");}
+#le-blackberry-perdu, #le-blackberry-perdu-1 { background-image: url("images/abstract-violet-pierre.jpg");}
+#recovery, #recovery-1 { background-image: url("images/abstract-violet-dde.jpg");}
+#phishing, #phishing-1 { background-image: url("images/abstract-violet-pierre.jpg");}
