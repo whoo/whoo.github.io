@@ -189,12 +189,12 @@ Intervention chez un client c’est parti pour organiser, mais il manque quelque
 <iframe data-slide-id=11 src=https://directpoll.com/r?XDbzPBdJ3gZuSeQCHZdZ5ND4i8RQeHfpnSOxAYtKzRBUCfCy > </iframe>
 </center>
 
-# Le Blackberry Perdu
+# Le Blackberry perdu
 <img src="images/blackberry.jpg" width=50% style='float:left'>
-Mais où sont jeté les anciens téléphones ? Dans les poubelles biensur...<br>
+Mais où sont jeté les anciens téléphones ? Dans les poubelles bien sûr...<br>
 Et à votre avis … dans un telephone il y a quoi ?<br>
 
-# Le Blackberry Perdu
+# Le Blackberry perdu
 <center>
 <iframe data-slide-id=12 src=https://directpoll.com/r?XDbzPBdJ3havTfRDIaea6OE5j9SRfIgqoTPyBZuL0SCVDgDz > </iframe>
 </center>
