@@ -42,8 +42,8 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 👉 C’est drôle mais on ne se moque pas.<br>
 👉 On se veut bienveillant.<br>
 👉 On peut apprendre de l'erreur des autres.<br>
-👉 Attention certaine section sont NSFW<br>
-👉 ChatGPT n'a pas été maltraité durant la production de ces slides<br>
+👉 Attention certaines sections sont NSFW.<br>
+👉 ChatGPT n'a pas été maltraité durant la production de ces slides.<br>
 
 # Au Menu
 <img src="images/menu.jpg" width=30% style="float:left; margin-right: 1em;">
