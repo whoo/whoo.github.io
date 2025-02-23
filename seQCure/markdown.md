@@ -189,8 +189,9 @@ Intervention chez un client c’est parti pour organiser, mais il manque quelque
 </center>
 
 # Le Blackberry Perdu
-Mais où sont jeté les anciens téléphones ? Dans les poubelles biensur...
-Et à votre avis … dans un telephone il y a quoi ?
+<img src="images/blackberry.jpg" width=30% style='float:left'>
+Mais où sont jeté les anciens téléphones ? Dans les poubelles biensur...<br>
+Et à votre avis … dans un telephone il y a quoi ?<br>
 
 # Le Blackberry Perdu
 <center>
@@ -199,8 +200,8 @@ Et à votre avis … dans un telephone il y a quoi ?
 
 # Recovery
 <img src="images/backup.jpeg" width=30% style="float: right">
-L’accident est malheureusement arrivé, il devait arriver car il n’y avait pas de patch, un musée archéologique.  
-Confinement, éradication et récupération.  
+L’accident est malheureusement arrivé, il devait arriver car il n’y avait pas de patch, un musée archéologique.<br>
+Confinement, éradication et récupération.<br>
 
 C’est le moment de vérifier où sont les sauvegardes... et les retrouver : Mais.
 
