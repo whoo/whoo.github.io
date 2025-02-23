@@ -189,7 +189,7 @@ Intervention chez un client c’est parti pour organiser, mais il manque quelque
 </center>
 
 # Le Blackberry Perdu
-<img src="images/blackberry.jpg" width=30% style='float:left'>
+<img src="images/blackberry.jpg" width=50% style='float:left'>
 Mais où sont jeté les anciens téléphones ? Dans les poubelles biensur...<br>
 Et à votre avis … dans un telephone il y a quoi ?<br>
 
