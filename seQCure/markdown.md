@@ -43,7 +43,7 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 👉 On se veut bienveillant.<br>
 👉 On peut apprendre de l'erreur des autres.<br>
 👉 Attention certaine section sont NSFW<br>
-👉 ChatGPT n'a pas été maltraité durant la production de de ces slides<br>
+👉 ChatGPT n'a pas été maltraité durant la production de ces slides<br>
 
 
 # Au Menu
@@ -222,7 +222,24 @@ Même si
 Les questions de sécurité ne vont pas disparaitre et les erreurs humaines ne vont pas s’arrêter.<br>
 Si l'on ne veut pas continuer à apprendre de ses erreurs, une dose d'humour dans l'amélioration continue est nécessaire pour avancer.
 
+
+
+
 #
+
+<center>
+<iframe src="https://directpoll.com/r?XDbzPBdJqE7S0Cykp7B7dvlcGgzyCpDNL0wVi6RsXzj2kDkW"></iframe>
+</center>
+
+<script>
+
+setTimeout(function() {
+  var xmlHttp = new XMLHttpRequest();
+  xmlHttp.open( "GET", "https://directpoll.com/r?XDbzPBdJqE7S0Cykp7B7dvlcGgzyCpDNL0wVi6RsXzj2kDkW", false );
+  xmlHttp.send( null );
+}, 5000);
+</script>
+
 <!-- C
 
 
