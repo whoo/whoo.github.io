@@ -96,12 +96,12 @@ Grosse activité sur le réseau d'administration, celui qui n'est pas connecté 
 <iframe data-slide-id=3 src=https://directpoll.com/r?XDbzPBdJ4dCZ2bGRxnxVYbD0WVilfqtxqYLajHTHpFmJ3N2 > </iframe>
 </center>
 
-# Sur Le réseaux
+# Sur Le réseau
 <img src="images/NAS.jpg" width=30% style="float:left" >
 La lettre de mandat est signée, le test est planifié, l'équipe lance la phase de reconnaissance dans l'entreprise.<br>
 Comme c'est le premier test, l'équipe rouge sait qu'elle va trouver des surprises.
 
-# Sur Le réseaux
+# Sur Le réseau
 <center>
 <iframe data-slide-id=4 src=https://directpoll.com/r?XDbzPBdJ5eDa3cHSyoyWZcE1XWjmgruyrZMbkIUIqGnK4O3 > </iframe>
 </center>
@@ -232,7 +232,7 @@ Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 # Nous aurions voulu...
 
 <center>
-<a href="https://starwarsintrogenerator.com/scroller?u=24gezvy8" style="color:white" >Ne pas clicker ici !</iframe>
+<a href="https://starwarsintrogenerator.com/scroller?u=274rlxcl" style="color:white" >Ne pas clicker ici !</iframe>
 </center>
 
 # Le mot de la fin ...
