@@ -232,7 +232,7 @@ Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 # Nous aurions voulu...
 
 <center>
-<a href="https://starwarsintrogenerator.com/scroller?u=24gezvy8">Credit </iframe>
+<a href="https://starwarsintrogenerator.com/scroller?u=24gezvy8" style="color:white" >Ne pas clicker ici !</iframe>
 </center>
 
 # Le mot de la fin ...
