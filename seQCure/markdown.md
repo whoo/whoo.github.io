@@ -98,7 +98,8 @@ Grosse activité sur le réseau d'administration, celui qui n'est pas connecté 
 
 # Sur Le réseaux
 <img src="images/NAS.jpg" width=30% style="float:left" >
-La lettre de mandat est signée, le test est planifié, l'équipe lance la phase de reconnaissance dans l'entreprise. Comme c'est le premier test, l'équipe sait qu'elle va trouver des surprises. A priori, le directeur TI avait pensé à l'externalisation de son NAS personnel sur son lieu de travail.
+La lettre de mandat est signée, le test est planifié, l'équipe lance la phase de reconnaissance dans l'entreprise.<br>
+Comme c'est le premier test, l'équipe rouge sait qu'elle va trouver des surprises.
 
 # Sur Le réseaux
 <center>
@@ -228,6 +229,11 @@ Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 </center>
 
 
+# Nous aurions voulu...
+
+<center>
+<iframe src="https://starwarsintrogenerator.com/scroller?u=2dflhh72"> </iframe>
+</center>
 
 # Le mot de la fin ...
 
