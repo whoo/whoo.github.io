@@ -39,11 +39,11 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 
 
 👉 Les histoires sont toutes vraies ;<br>
+👉 Attention certaines sections sont NSFW ;<br>
 👉 C’est drôle mais on ne se moque pas ;<br>
 👉 On se veut bienveillant ;<br>
 👉 On peut apprendre de l'erreur des autres ;<br>
-👉 Attention certaines sections sont NSFW ;<br>
-👉 Aucun ChatGPT n'a pas été maltraité durant la production de ces slides.<br>
+👉 Aucun #LLM n'a pas été maltraité durant la production de ces slides.<br>
 
 # Au Menu
 <img src="images/menu.jpg" width=30% style="float:left; margin-right: 1em;">
