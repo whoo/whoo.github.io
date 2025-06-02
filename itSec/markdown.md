@@ -75,7 +75,7 @@ C'est quoi le pire mot de passe que vous puissiez utiliser (et donc cracker)...
 
 # Mot de passe
 <center>
-<iframe sandbox="allow-same-origin"  src=https://directpoll.com/r?XDbzPBdJ2bAX0ZExqFfhpJ1IwhdFhJ40mWP7e6Hr9iU0UvbFv > </iframe>
+<iframe sandbox="allow-same-origin allow-scripts allow-presentation	"  src=https://directpoll.com/r?XDbzPBdJ2bAX0ZExqFfhpJ1IwhdFhJ40mWP7e6Hr9iU0UvbFv > </iframe>
 </center>
 
 # Mise à jour
