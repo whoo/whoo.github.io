@@ -49,9 +49,9 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 <img src="images/menu.jpg" width=30% style="float:left; margin-right: 1em;">
 
 <span style="font-size:2em; line-height: 2em; " >
- La base ;<br>
- En crise ;<br>
- On l'a échappé ;<br>
+* La base<br>
+* En crise<br>
+* On l'a échappé<br>
 </span>
 
 
