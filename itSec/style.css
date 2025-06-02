@@ -99,7 +99,7 @@ border-top-right-radius: 10pt;
 #dominique, #pierre { background-image: url("images/itsec-bg.webp"); }
 
 #mot-de-passe-1, #mise-à-jour-1, #droit-dadmin-1, #sur-le-réseaux-1, #prod-toujours-1, #fraude-telephonique-1, #mysql-1, #rm-save-1, #déclarer-ou-pas-déclarer-1, #mdr-team-1  { background-image: url("images/abstract-violet-qr.jpg")}
-#gestion-dincident-1, #le-blackberry-perdu-1, #recovery-1, #phishing-1  { background-image: url("images/abstract-violet-qr.jpg")}
+#sur-le-réseau-1, #gestion-dincident-1, #le-blackberry-perdu-1, #recovery-1, #phishing-1  { background-image: url("images/abstract-violet-qr.jpg")}
 
 
 #insert-coin { background-image: url("images/insert_coin.webp");}

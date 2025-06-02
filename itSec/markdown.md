@@ -13,10 +13,10 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 <img src=images/dominique_16bit.png width=20% style="float:right">
 
 <center>
-| Officiellement      | ... |
+| Officiellement      |  |
 | :----      | ----:  |
 | 0x19 XP  | OpenSource |  
-| Neotrust  |            |
+| Neotrust  |  Rubick         |
 | vCISO     | CTF Builder/runner  |
 | iso27001 & NIST | ESP32, Docker, Vim |
 </center>
