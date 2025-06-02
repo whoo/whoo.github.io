@@ -256,8 +256,8 @@ Si l'on ne veut pas continuer à apprendre de ses erreurs, une dose d'humour dan
 
 setTimeout(function() {
   var xmlHttp = new XMLHttpRequest();
-  xmlHttp.open( "GET", "https://directpoll.com/r?XDbzPBdEt8j1rJvuXjz9OJL8zbRib9yqoTPyBZuL0SCVDgDz", false );
-  xmlHttp.send( null );
+/*  xmlHttp.open( "GET", "https://directpoll.com/r?XDbzPBdEt8j1rJvuXjz9OJL8zbRib9yqoTPyBZuL0SCVDgDz", false );
+  xmlHttp.send( null ); */
   alert("reset");
   
 }, 5000);
