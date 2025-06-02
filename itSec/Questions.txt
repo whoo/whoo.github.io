@@ -1,0 +1,83 @@
+Mot de passe
+    P@$$w0rd
+    chantal1987
+    Bite de chien
+    L’autre
+
+Mise à jour
+    Un tuto youtube
+    Accompagnement de l’editeur
+    Trop risque pour patcher depuis 10 ans
+    L'autre
+
+Droit d'admin
+    Tcpdump pour analyser le trafic
+    Rien, c'est du backend
+    Any/Any pas de drop = pas de cpu
+    L'autre
+
+Mais il y a quoi sur le réseau ?
+    Une serveur mal configurée
+    La mer noire
+    Le NAS du CIO avec des photos NSFW
+    L’autre
+
+Prod Toujours
+    Backup / Réinstall
+    Passage en prod sur un live CD
+    Snapshot
+    L’autre
+
+La fraude téléphonique ☎️
+    Récupérer le n° de la secretaire
+    La réponse B
+    5 jours à négocier 10$ (200k$ au total)
+    On appelle son opérateur
+
+Mysql
+    Bug opensource
+    Oom killer
+    Snapshot
+    L’autre
+
+rm /save
+    Ca marche quand même
+    On ne peut pas supprimer un fichier
+    Alors oui mais non
+    L'autre
+
+Déclarer ou pas Déclarer l'incident ?
+    Déclarer !
+    Financer le terrorisme ...
+    C’est tu vraiment un incident ?
+    L'autre
+
+MDR Team
+    Date Fr = En
+    Utilisation d’un générateur de logs.
+    En fait c’est les logs d’un autre client
+    L'autre
+
+Gestion d’incident
+    Achat d’un système téléphonique
+    Mise en place d’une solution de GIA.
+    Faire une analyse darkweb
+    L'autre
+
+Le Blackberry
+    SdCard photos du CEO et sa secretaire
+    Impossible à récupérer
+    Dans le cloud
+    L'autre
+
+Recovery / Backup 
+    Sauvegarder = Pas confiance en TI
+    Dérouler les tapes de backup 3/2/1
+    Le pirate publiera les fichiers DW
+    L’autre
+
+Le phishing 
+    L’arrière plan est beau.
+    Il répondait à une petite annonce NSFW
+    Documents comptables
+    L'autre

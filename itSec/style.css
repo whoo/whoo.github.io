@@ -1,0 +1,132 @@
+.titlepage { 
+  background-image: url('images/itsec-bg.webp') ; 
+	background-repeat: no-repeat;
+  	background-size: 100% 100% !important;
+  }
+
+
+.titlepage H1 {
+  color: white;
+  font-size:5em !important;
+}
+
+
+.titlepage H1:before {
+	content: url("images/logo-ITsec2024-couleur.svg");
+  display: block;
+  width: 12px;
+  height: 12px;
+}
+
+.toolbar, .toolbar a {
+  background-color: transparent !important;
+  color: white !important;
+  border: 0px !important;
+}
+
+.section H1 { 
+  color: white; 
+  font-family: "Arial";
+  font-size: 30em;
+  font-style: normal;
+  padding-top: 20pt;
+  padding-bottom: 20pt !important ;
+  padding-left: 20pt !important;
+  margin-bottom: 10% !important;
+  /*background-color: rgba(255, 0, 0, 0.4) !important; */
+  background: rgb(255,0,0) !important;
+  background: linear-gradient(90deg, rgba(255, 0, 0, 0.689) 10%, rgba(0,212,255,0) 100%) !important;
+  border: none;
+  width: 100%;
+
+}
+
+.section {
+    background-image: url('images/itsec-bg.webp') ; 
+	background-repeat: no-repeat;
+  	background-size: 100% 100%;
+    padding: 0px !important;
+
+}
+
+.author {
+color: white;
+margin-top: 6em;
+text-align: right; 
+}
+
+.section div {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.section p {
+  color: white; 
+ margin: 0em auto 0px auto;
+ width: 90% ;
+}
+
+iframe {
+  width: 77%;
+  height: 600px !important;
+  border: 0px;
+}
+
+
+.section table {
+  color: white;
+  width: 50%;
+  margin: 0px;
+}
+
+.section img {
+margin-left: 10pt;
+margin-right: 10pt;
+}
+
+
+.note {
+background-color: rgba(0,0,0,0.85);
+width: 50% !important;
+height: 5em !important;
+margin: 0px !important;
+padding: 1em;
+border-top-right-radius: 10pt;
+}
+
+
+#dominique, #pierre { background-image: url("images/itsec-bg.webp"); }
+
+#mot-de-passe-1, #mise-à-jour-1, #droit-dadmin-1, #sur-le-réseaux-1, #prod-toujours-1, #fraude-telephonique-1, #mysql-1, #rm-save-1, #déclarer-ou-pas-déclarer-1, #mdr-team-1  { background-image: url("images/itsec-bg.webp")}
+#gestion-dincident-1, #le-blackberry-perdu-1, #recovery-1, #phishing-1  { background-image: url("images/itsec-bg.webp")}
+
+
+#insert-coin { background-image: url("images/insert_coin.webp");}
+#warning-low-health { background-image: url("images/low-health.webp");}
+#game-over { background-image: url("images/gameover.webp"); }
+
+
+#mot-de-passe { background-image: url("images/abstract-violet-pierre.jpg");}
+#mise-à-jour { background-image: url("images/abstract-violet-dde.jpg");}
+#droit-dadmin { background-image: url("images/abstract-violet-dde.jpg");}
+#sur-le-réseaux{ background-image: url("images/abstract-violet-pierre.jpg");}
+#prod-toujours { background-image: url("images/abstract-violet-dde.jpg");}
+#fraude-telephonique { background-image: url("images/abstract-violet-pierre.jpg");}
+#mysql { background-image: url("images/abstract-violet-dde.jpg");}
+#rm-save { background-image: url("images/abstract-violet-dde.jpg");}
+#déclarer-ou-pas-déclarer { background-image: url("images/abstract-violet-pierre.jpg");}
+#mdr-team { background-image: url("images/abstract-violet-dde.jpg");}
+#gestion-dincident { background-image: url("images/abstract-violet-dde.jpg");}
+#le-blackberry-perdu  { background-image: url("images/abstract-violet-pierre.jpg");}
+#recovery { background-image: url("images/abstract-violet-dde.jpg");}
+#phishing { background-image: url("images/abstract-violet-pierre.jpg");}
+
+
+
+#questions H2::before {
+	content: url("images/logo-ITsec2024-couleur.svg");
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+}
