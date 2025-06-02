@@ -30,8 +30,8 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 | :----      | ----:  |
 | 0x14 XP   |  ex-Pentester 💀|  
 | CGI       |  Incident Response enthusias 💣|
-| Vice-Président Cybersécurité     |  Amateur Mountain Climber 🏔 & Skimo Fan ⛷️ |
-|           |   |
+| Vice-Président Cybersécurité     |  Amateur Mountain Climber 🏔 |
+|           |  & Skimo Fan ⛷️  |
 </center>
 
 # Disclaimer
