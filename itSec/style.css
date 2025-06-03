@@ -123,8 +123,8 @@ border-top-right-radius: 10pt;
 #phishing { background-image: url("images/abstract-violet-pierre.jpg");}
 
 
-#la-base { background-image: url("images/base.png");}
-
+#la-base  { background-image: url("images/base.png");}
+#en-crise { background-image: url("images/crise.png";}
 
 
 #questions H2::before {
