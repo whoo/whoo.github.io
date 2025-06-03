@@ -135,7 +135,8 @@ Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande u
 
 # Mysql
 <img src="images/groundhog-day-wake-up.gif" width=30% style="float:right">
-Erreur d’indisponibilité sur un serveur client à forte consultation : la base ne répond plus à la même heure chaque jour. Cela fait plusieurs jours que cela dure.
+Erreur d’indisponibilité sur un serveur client à forte consultation : <br>
+la base ne répond plus à la même heure chaque jour. Cela fait plusieurs jours que cela dure.
 
 # Mysql
 <center>
@@ -145,8 +146,10 @@ Erreur d’indisponibilité sur un serveur client à forte consultation : la bas
 # Rm /save
 <img src="images/shell.png" width=30% style="float:right">
 Pour aller plus vite les administrateurs sont créatifs à faire des raccoucis pour fluidifier leur gestion.<br>
-Un admin a fait : ln –s /opt/database/ /osave <br> 
-Quelques jours plus tard pour faire le ménage un autre a fait : rm /osave/* <br>
+Un admin a fait : <br>
+<code>ln –s /opt/database/ /osave </code><br> 
+Quelques jours plus tard pour faire le ménage un autre a fait : <br>
+<code>rm /osave/*</code><br>
 
 # Rm /save
 <center>
