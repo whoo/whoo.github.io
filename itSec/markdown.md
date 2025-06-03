@@ -184,7 +184,7 @@ Quand tout part en vrille
 
 # Gestion d’incident
 <img src="images/Gaston.webp" width=30% style='float:left'>
-Incident arrive, c’est dans la douleur qu’on apprend le plus vite… et c’est moins le fun.
+Incident arrive, c’est dans la douleur qu’on apprend le plus vite… et c’est moins le fun.<br>
 Intervention chez un client c’est parti pour organiser, mais il manque quelques éléments.
 
 # Gestion d’incident
