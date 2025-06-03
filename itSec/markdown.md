@@ -51,7 +51,7 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 <span style="font-size:2em; line-height: 2em; " >
 1️⃣ La base<br>
 2️⃣ En crise<br>
-3️⃣ On l'a échappé<br>
+3️⃣ Oupss<br>
 </span>
 
 
@@ -184,7 +184,7 @@ Mais il est impossible de trouver les traces.
 </center>
 
 
-# On l'a échappé
+# Oupss
 <p class="note">
 Quand tout part en vrille
 </p>
