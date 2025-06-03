@@ -5,3 +5,6 @@ all: Demo.html
 
 
 Demo.html: markdown.md style.css
+
+push: index.html
+	git push
