@@ -150,7 +150,7 @@ Pour aller plus vite les administrateurs sont créatifs à faire des raccoucis p
 Un admin a fait : <br>
 <pre>>ln –s /opt/database/ /osave </pre><br> 
 Quelques jours plus tard pour faire le ménage un autre a fait : <br>
-<code>rm /osave/*</code><br>
+<pre>>rm /osave/*</pre><br>
 
 # Rm /save
 <center>
