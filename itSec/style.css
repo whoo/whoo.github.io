@@ -123,6 +123,9 @@ border-top-right-radius: 10pt;
 #phishing { background-image: url("images/abstract-violet-pierre.jpg");}
 
 
+#la-base { background-image: url("images/base.png");}
+
+
 
 #questions H2::before {
 	content: url("images/logo-ITsec2024-couleur.svg");
