@@ -67,12 +67,6 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 Les bases indispensables ...
 </p>
 
-<ul>
-<li> Password</li>
-<li> Mise à jour</li>
-<li> Droits </li>
-<li> Réseaux </li>
-</ul>
 
 # Mot de passe
 <img src="images/password.jpg" width=30% style="float:left" >
