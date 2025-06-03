@@ -96,7 +96,7 @@ border-top-right-radius: 10pt;
 }
 
 
-#dominique, #pierre { background-image: url("images/itsec-bg.webp"); }
+#dominique-derrier, #pierre-le-calvez { background-image: url("images/abstract-violet-black.jpg"); }
 
 #mot-de-passe-1, #mise-à-jour-1, #droit-dadmin-1, #sur-le-réseaux-1, #prod-toujours-1, #fraude-telephonique-1, #mysql-1, #rm-save-1, #déclarer-ou-pas-déclarer-1, #mdr-team-1  { background-image: url("images/abstract-violet-qr.jpg")}
 #sur-le-réseau-1, #gestion-dincident-1, #le-blackberry-perdu-1, #recovery-1, #phishing-1  { background-image: url("images/abstract-violet-qr.jpg")}
@@ -123,9 +123,9 @@ border-top-right-radius: 10pt;
 #phishing { background-image: url("images/abstract-violet-pierre.jpg");}
 
 
-#la-base  { background-image: url("images/base.png");}
-#en-crise { background-image: url("images/crise.png");}
-
+#la-base  { background-image: url("images/base.png");  }
+#en-crise { background-image: url("images/crise.png"); }
+#oupss    { background-image: url("images/ouups.png"); }
 
 #questions H2::before {
 	content: url("images/logo-ITsec2024-couleur.svg");
