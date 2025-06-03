@@ -146,11 +146,13 @@ Cela fait plusieurs jours que cela dure.
 
 # Rm /save
 <img src="images/shell.png" width=30% style="float:right">
-Pour aller plus vite les administrateurs sont créatifs à faire des raccoucis pour fluidifier leur gestion.<br>
-Un admin a fait : <br>
+<p>Pour aller plus vite les administrateurs sont créatifs à faire des raccoucis pour fluidifier leur gestion.<br>
+Un admin a fait : <br></p>
 <pre>>ln –s /opt/database/ /osave </pre><br> 
+<p>
 Quelques jours plus tard pour faire le ménage un autre a fait : <br>
 <pre>>rm /osave/*</pre><br>
+</p>
 
 # Rm /save
 <center>
