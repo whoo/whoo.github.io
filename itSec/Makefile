@@ -8,3 +8,7 @@ Demo.html: markdown.md style.css
 
 push: index.html
 	git push
+
+
+prod: push
+	open https://whoo.github.io/itSec/
