@@ -1,0 +1,101 @@
+#Mots de passe  (Pierre)
+Lors d'un pentest, l'idée est de recueillir un maximum de condensats de mots de passe pour en éprouver la solidité.
+C'est quoi le pire mot de passe que vous puissiez utiliser (et donc cracker)...
+
+Mot de passe (
+    P@$$w0rd
+    chantal1987
+    Bite de chien
+    L’autre
+
+# Mysql (Dominique)  Problème de ressources sur le serveur d’une compagnie importante. Equipe d’administateur.
+    Bug opensource
+    Oom killer
+    Snapshot
+    L’autre
+
+# Ressource saturée (Dominique) 
+Problème d’espace disque … et bande passante saturé. L’alerte tombe dans le monitoring.
+Q/R: un XXX allemand dans le répertoire ftp.
+
+
+# Optimisation SSL (Dominique) 
+Optimisation de cout, on fait des *.monnom.com
+QR > J’ai perdu le certificat    *.client.com
+
+# Shit in the fan (Dominique) 
+Problème éternel de patching, 
+C’est la faute de la sécurité qui ne donne pas les indications.
+C’est la faute du métier qui ne donne pas les créneaux de reboot.
+C’est la faute de IT qui ne sait pas comment redémarrer correctement.
+
+Q/R: J’ai patch 5000 serveurs.
+
+# Pentest  (Dominique) 
+Dans une usine après un pentest, l’équipe a réussi à dropper un malware sur un serveur de l’infrastructure. L’équipe avait un petit sourire en rapportante cela.
+La nuit l’équipe de SOC.
+
+QR: blocage de l’ad.
+
+# MFA inviolable (Dominique) 
+On est pas toujours très fort.
+Q/R: J’ai eu l’admin sys avec son MFA.
+
+# inventaire (Dominique) 
+incident multi site le pirate fait de l’exfiltration, et   est toujours là dans le infrastrstructure le system de logs. Vous voulez sortir la menace hors des murs.
+
+Q/R:  
+Il a un accès dans un bâtiment.
+il utilisait un accès internet non documenté 
+
+
+# Raid (Dominique) 
+Cette bonne vieille techno (ce n’est pas du backup). Vous connaissez le principe… a l’heure ou le cloud n’existe pas.
+Une erreur sur un disque qui ne fonctionne plus. 
+QR: le tech a remplacé le mauvais disque
+
+# Opensource (Dominique) 
+
+QR: j’ai installe linux sur le poste de mon president.
+
+
+# La demo darknet non préparé (Dominique) 
+Le darkweb, ce mot magique.
+Q/R: le nom du PDG apparait dans le hashley madison
+
+#Physique (Dominique)
+Les engins de chantier se retrouvaient déplacés dans la ville.
+Q/R: toutes les clefs étaient les mêmes.
+
+
+#  Mais il y a quoi sur le réseau ? (Pierre)
+Cadre d’audit
+
+    Une serveur mal configurée
+    La mer noire
+    Le NAS du CIO avec des photos NSFW
+    L’autre
+
+
+# Le Blackberry (Pierre)
+    SdCard photos du CEO et sa secretaire
+    Impossible à récupérer
+    Dans le cloud
+    L'autre
+
+# Le phishing (Pierre)
+Dans les cadres de pentest, le phishing est un art … mais il faut vivre avec les conséquences.
+
+    L’arrière plan est beau.
+    Il répondait à une petite annonce NSFW
+    Documents comptables
+    L'autre
+ 
+Cherche homme pour plan à 3 avec ma femme.
+
+
+# La fraude téléphonique ☎️
+    Récupérer le n° de la secretaire
+    La réponse B
+    5 jours à négocier 10$ (200k$ au total)
+    On appelle son opérateur

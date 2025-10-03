@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Dominique Derrier" />
+  <meta name="author" content="Pierre Le Calvez" />
+  <meta name="keywords" content="seQCure, securite, failed" />
+  <title>Histoires   d’Erreurs</title>
+  <style type="text/css">
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+    href="https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" />
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+   href="style.css" />
+  <script src="https://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js"
+    charset="utf-8" type="text/javascript"></script>
+</head>
+<body>
+<div class="slide titlepage">
+  <h1 class="title">Histoires<br>  d’Erreurs</h1>
+  <p class="author">
+Dominique Derrier<br/>Pierre Le Calvez
+  </p>
+</div>
+<div id="dominique-derrier" class="slide section level1">
+<h1>Dominique Derrier</h1>
+<p><img src=images/dominique.jpg width=20% style="float:left">
+<img src=images/dominique_16bit.png width=20% style="float:right"></p>
+<center>
+<table>
+<thead>
+<tr>
+<th align="left">Officiellement</th>
+<th align="right">…</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">0x19 XP</td>
+<td align="right">OpenSource</td>
+</tr>
+<tr>
+<td align="left">Neotrust</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td align="left">vCISO</td>
+<td align="right">CTF Builder/runner</td>
+</tr>
+<tr>
+<td align="left">iso27001 &amp; NIST</td>
+<td align="right">ESP32, Docker, Vim</td>
+</tr>
+</tbody>
+</table>
+</center>
+</div>
+<div id="pierre-le-calvez" class="slide section level1">
+<h1>Pierre Le Calvez</h1>
+<p><img src=images/pierre.jpg width=20% style="float:left">
+<img src=images/pierre_16bit.png width=20% style="float:right"></p>
+<center>
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr>
+<th align="left">Officiellement</th>
+<th align="right">…</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">0x14 XP</td>
+<td align="right">ex-Pentester 💀</td>
+</tr>
+<tr>
+<td align="left">CGI</td>
+<td align="right">Incident Response enthusias 💣</td>
+</tr>
+<tr>
+<td align="left">Vice-Président Cybersécurité</td>
+<td align="right">Amateur Mountain Climber 🏔 &amp; Skimo Fan ⛷️</td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="right"></td>
+</tr>
+</tbody>
+</table>
+</center>
+</div>
+<div id="disclaimer" class="slide section level1">
+<h1>Disclaimer</h1>
+<p><img src=images/moqueries.jpg style="float:left"></p>
+<p>👉 Les histoires sont toutes vraies ;<br> 👉 C’est drôle mais on ne
+se moque pas ;<br> 👉 On se veut bienveillant ;<br> 👉 On peut apprendre
+de l’erreur des autres ;<br> 👉 Attention certaines sections sont NSFW
+;<br> 👉 Aucun ChatGPT n’a pas été maltraité durant la production de ces
+slides.<br></p>
+</div>
+<div id="au-menu" class="slide section level1">
+<h1>Au Menu</h1>
+<p><img src="images/menu.jpg" width=30% style="float:left; margin-right: 1em;"></p>
+</div>
+<div id="participez" class="slide section level1">
+<h1>Participez</h1>
+<center>
+<iframe src="https://directpoll.com/r?XDbzPBdEt8j1rJIl2e4lyuRmUg823TAB4mZoxVhV3T0XHbG">
+</iframe>
+</center>
+</div>
+<div id="la-fraude-téléphonique-pierre" class="slide section level1">
+<h1>La fraude téléphonique ☎️ (Pierre)</h1>
+</div>
+<div id="opensource-dominique" class="slide section level1">
+<h1>Opensource (Dominique)</h1>
+</div>
+<div id="mots-de-passe-pierre" class="slide section level1">
+<h1>Mots de passe (Pierre)</h1>
+</div>
+<div id="mysql-dominique" class="slide section level1">
+<h1>Mysql (Dominique)</h1>
+</div>
+<div id="ressource-saturée-dominique" class="slide section level1">
+<h1>Ressource saturée (Dominique)</h1>
+</div>
+<div id="optimisation-ssl-dominique" class="slide section level1">
+<h1>Optimisation SSL (Dominique)</h1>
+</div>
+<div id="shit-in-the-fan-dominique" class="slide section level1">
+<h1>Shit in the fan (Dominique)</h1>
+</div>
+<div id="pentest-dominique" class="slide section level1">
+<h1>Pentest (Dominique)</h1>
+</div>
+<div id="mfa-inviolable-dominique" class="slide section level1">
+<h1>MFA inviolable (Dominique)</h1>
+</div>
+<div id="inventaire-dominique" class="slide section level1">
+<h1>inventaire (Dominique)</h1>
+</div>
+<div id="raid-dominique" class="slide section level1">
+<h1>Raid (Dominique)</h1>
+</div>
+<div id="la-demo-darknet-non-préparé-dominique"
+class="slide section level1">
+<h1>La demo darknet non préparé (Dominique)</h1>
+<p>#Physique (Dominique)</p>
+</div>
+<div id="mais-il-y-a-quoi-sur-le-réseau-pierre"
+class="slide section level1">
+<h1>Mais il y a quoi sur le réseau ? (Pierre)</h1>
+</div>
+<div id="le-blackberry-pierre" class="slide section level1">
+<h1>Le Blackberry (Pierre)</h1>
+</div>
+<div id="le-phishing-pierre" class="slide section level1">
+<h1>Le phishing (Pierre)</h1>
+</div>
+<div id="nous-aurions-voulu" class="slide section level1">
+<h1>Nous aurions voulu…</h1>
+<center>
+<a href="https://starwarsintrogenerator.com/scroller?u=274rlxcl" style="color:white" >Ne
+pas clicker ici !</iframe>
+</center>
+</div>
+<div id="le-mot-de-la-fin" class="slide section level1">
+<h1>Le mot de la fin …</h1>
+<p>Même si <br> 👉 l’amélioration continue ; <br> 👉 l’intelligence
+artificielle ; <br> <br> <br> <br> Les questions de sécurité ne vont pas
+disparaitre et les erreurs humaines ne vont pas s’arrêter.<br> Si l’on
+ne veut pas continuer à apprendre de ses erreurs, une dose d’humour dans
+l’amélioration continue est nécessaire pour avancer.</p>
+</div>
+<div id="section" class="slide section level1">
+<h1></h1>
+<script>
+
+setTimeout(function() {
+  var xmlHttp = new XMLHttpRequest();
+  xmlHttp.open( "GET", "https://directpoll.com/r?XDbzPBdJqE7S0Cykp7B7dvlcGgzyCpDNL0wVi6RsXzj2kDkW", false );
+  xmlHttp.send( null );
+  
+}, 5000);
+</script>
+<!-- C
+
+
+🕹️ INSERT COIN 
+Mot de passe (Pierre)
+Mise à jour (Dominique)
+Droit d'admin (Dominique)
+Mais il y a quoi sur le réseau ? (Pierre)
+Prod Toujours (Dominique)
+
+⚠️ WARNING! LOW HEALTH 
+La fraude téléphonique (Pierre)
+Mysql piraté (Dominique)
+RM /save (Dominique)
+Déclarer ou pas Déclarer (Pierre)
+MDR Team (Dominique)
+
+💀 GAME OVER (Quand tout part en vrille)
+Gestion d’incident (Dominique)
+Le Blackberry Perdu (Pierre)
+Recovery (Dominique)
+Le phishing (Pierre)
+
+
+-->
+</div>
+</body>
+</html>
