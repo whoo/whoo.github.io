@@ -37,7 +37,6 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 # Disclaimer
 <img src=images/moqueries.jpg style="float:left">
 
-
 👉 Les histoires sont toutes vraies ;<br>
 👉 C’est drôle mais on ne se moque pas ;<br>
 👉 On se veut bienveillant ;<br>
@@ -58,13 +57,34 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 
 
 # La fraude téléphonique ☎️  (Pierre)
+<img src="images/phone.webp" width=30% style='float: left'>
+Une compagnie vous appelle pour l'aider pendant une fraude téléphonique. En effet, elle s'est rendu compte de la mise en place d'une redirection téléphonique vers un numéro surtaxé (que vous maîtrisez).<br>
+Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande un devis pour l'aider.
 
-# Shit in the fan (Dominique) 
+# La fraude téléphonique ☎️  (Pierre)
+
+
+
+# Shit in the fan (Dominique)
+Le patching... une histoire d'amour entre les Rouge, les Bleus, White. Pour des raisons de repotring, le gestionnaire de projets à eu accés à l'insterface de patching.
+
+# Shit in the fan (Dominique)
+
+
+
+# Le Blackberry (Pierre)
+<img src="images/blackberry.jpg" width=50% style='float:left'>
+Mais où sont jeté les anciens téléphones ? Dans les poubelles bien sûr...<br>
+Et à votre avis … dans un telephone il y a quoi ?.
 
 # Le Blackberry (Pierre)
 
 
 # Ressource saturée (Dominique) 
+A la belle époque ou 21 et le 20 était la meilleure solution pour échanger de fichier.
+Le monitoring sonne à 2h du matin.
+
+
 
 # DeLock BitLocker GPO (Pierre)
 
@@ -72,17 +92,29 @@ Optimisation via GPO.
 Chiffrement + dechiffrement tous les jours.
 
 # Optimisation SSL (Dominique) 
+Les certificats SSL, le plaisir de l'administratif à l'installation. Pour simplifier les équipes ont décidé de faire des *.nomsdedomaine.com
+
+# Optimisation SSL (Dominique) 
+...
 
 
 # Mais il y a quoi sur le réseau ? (Pierre)
+<img src="images/NAS.jpg" width=30% style="float:left" >
+La lettre de mandat est signée, le test est planifié, l'équipe lance la phase de reconnaissance dans l'entreprise.<br>
+Comme c'est le premier test, l'équipe rouge sait qu'elle va trouver des surprises.
 
 
-# La demo darknet non préparé (Dominique) 
+# Darknet (Dominique)
+Le DarkNet, il parait qu'on peut trouver tout l'information du monde pour qui sait chercher.
+Rien de telle qu'un demo devant le pdg.
+
+# Darknet (Dominique)
+
 
 # Mots de passe  (Pierre)
 
 # Pentest  (Dominique) 
-Isolation de l'ad
+Isolation de l'ad 
 
 
 
@@ -91,10 +123,20 @@ Voute de mot de passe
 
 
 # Raid (Dominique)
+A une époque ou les machines physiques étaient notre quotidien ... bien loin de la virtualsation, des containers et du cloud. Un disque tombe en failure ... appel du support, ouverture du care-pack.
+
+
+# Raid (Dominique)
+
 
 
 # Le phishing (Pierre)
+<img src="images/phishing.jpeg" width=30% style="float: right">
+La sensibilisation par le phishing est l'un des premiers outils de sensibilisation marquants pour les équipes et les entreprises de toute taille qui utilisent l'informatique. <br>
+<br>
+Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 
+# Le phishing
 
 
 # Nous aurions voulu...
