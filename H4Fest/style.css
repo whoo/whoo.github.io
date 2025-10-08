@@ -1,3 +1,5 @@
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 .titlepage { 
   background-image: url('images/hf.png') ; 
 	background-repeat: no-repeat;
