@@ -140,6 +140,8 @@ Rien de telle qu'un demo devant le pdg.
 
 
 # Mots de passe
+Lors d'un pentest, l'idée est de recueillir un maximum de condensats de mots de passe pour en éprouver la solidité. <br>
+C'est quoi le pire mot de passe que vous puissiez utiliser (et donc cracker)...
 
 # Mots de passe
 <center>
