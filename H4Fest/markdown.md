@@ -66,22 +66,22 @@ Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande u
 </center>
 
 
-# Shit in the fan (Dominique)
+# Shit in the fan 
 Le patching... une histoire d'amour entre les Rouge, les Bleus, White. Pour des raisons de repotring, le gestionnaire de projets à eu accés à l'insterface de patching.
 
-# Shit in the fan (Dominique)
+# Shit in the fan
 
 
 
-# Le Blackberry (Pierre)
+# Le Blackberry
 <img src="images/blackberry.jpg" width=50% style='float:left'>
 Mais où sont jeté les anciens téléphones ? Dans les poubelles bien sûr...<br>
 Et à votre avis … dans un telephone il y a quoi ?.
 
-# Le Blackberry (Pierre)
+# Le Blackberry
 
 
-# Ressource saturée (Dominique) 
+# Ressource saturée
 A la belle époque ou 21 et le 20 était la meilleure solution pour échanger de fichier.
 Le monitoring sonne à 2h du matin.
 
