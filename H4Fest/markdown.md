@@ -91,7 +91,7 @@ Et à votre avis … dans un telephone il y a quoi ?.
 A la belle époque ou 21 et le 20 était la meilleure solution pour échanger de fichier.
 Le monitoring sonne à 2h du matin.
 
-# Ressource staturée
+# Ressource saturée
 <center>
 <iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
 </center>
