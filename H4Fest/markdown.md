@@ -70,6 +70,9 @@ Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande u
 Le patching... une histoire d'amour entre les Rouge, les Bleus, White. Pour des raisons de repotring, le gestionnaire de projets à eu accés à l'insterface de patching.
 
 # Shit in the fan
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
 
 
 
@@ -79,11 +82,19 @@ Mais où sont jeté les anciens téléphones ? Dans les poubelles bien sûr...<
 Et à votre avis … dans un telephone il y a quoi ?.
 
 # Le Blackberry
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
 
 
 # Ressource saturée
 A la belle époque ou 21 et le 20 était la meilleure solution pour échanger de fichier.
 Le monitoring sonne à 2h du matin.
+
+# Ressource staturée
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
 
 
 
@@ -92,11 +103,19 @@ Le monitoring sonne à 2h du matin.
 Optimisation via GPO.
 Chiffrement + dechiffrement tous les jours.
 
+# DeLock BitLocker GPO
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
+
+
 # Optimisation SSL
 Les certificats SSL, le plaisir de l'administratif à l'installation. Pour simplifier les équipes ont décidé de faire des *.nomsdedomaine.com
 
 # Optimisation SSL 
-...
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
 
 
 # On the lan
@@ -105,23 +124,36 @@ La lettre de mandat est signée, le test est planifié, l'équipe lance la phase
 Comme c'est le premier test, l'équipe rouge sait qu'elle va trouver des surprises.
 
 # On the lan
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
+
 
 # Darknet
 Le DarkNet, il parait qu'on peut trouver tout l'information du monde pour qui sait chercher.<br>
 Rien de telle qu'un demo devant le pdg.
 
 # Darknet
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
 
 
 # Mots de passe
 
 # Mots de passe
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
 
 
 # Pentest
 Un pentest qui fonctionne bien, les gars sont rentrés et on dumpé un malware sur un serveur pour take down le domain.
 
 # Pentest
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
 
 
 
@@ -129,7 +161,11 @@ Un pentest qui fonctionne bien, les gars sont rentrés et on dumpé un malware s
 Voute de mot de passe 
 
 
-#Le postit du président
+# Le postit du président
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
+
 
 
 # Raid
@@ -137,6 +173,9 @@ A une époque ou les machines physiques étaient notre quotidien ... bien loin d
 
 
 # Raid
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
 
 
 
@@ -147,6 +186,9 @@ La sensibilisation par le phishing est l'un des premiers outils de sensibilisati
 Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 
 # Le phishing
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
 
 
 # Nous aurions voulu...
