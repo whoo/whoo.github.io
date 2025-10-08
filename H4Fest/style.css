@@ -102,7 +102,9 @@ border-top-right-radius: 10pt;
 #dominique-derrier, #pierre-le-calvez { background-image: url("images/hf.png"); }
 
 
-#la-fraude-téléphonique { background-image: url("images/HF-bg-pierre.png") }
+#la-fraude-téléphonique,
+#deLock-bitlocker-gpo,
+#on-the-lan { background-image: url("images/HF-bg-pierre.png") }
 #le-blackberry { background-image: url("images/HF-bg-pierre.png") }
 
 #optimisation-ssl,
