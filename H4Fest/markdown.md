@@ -57,11 +57,13 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 
 # La fraude téléphonique ☎️  (Pierre)
 <img src="images/phone.webp" width=30% style='float: left'>
-Une compagnie vous appelle pour l'aider pendant une fraude téléphonique. En effet, elle s'est rendu compte de la mise en place d'une redirection téléphonique vers un numéro surtaxé (que vous maîtrisez).<br>
+Une compagnie vous appelle pour de l'aide pendant une fraude téléphonique. En effet, elle s'est rendu compte de la mise en place d'une redirection téléphonique vers un numéro surtaxé (que vous maîtrisez).<br>
 Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande un devis pour l'aider.
 
 # La fraude téléphonique ☎️  (Pierre)
-
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+</center>
 
 
 # Shit in the fan (Dominique)
