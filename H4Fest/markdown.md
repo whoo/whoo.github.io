@@ -220,7 +220,7 @@ Si l'on ne veut pas continuer à apprendre de ses erreurs, une dose d'humour dan
 
 setTimeout(function() {
   var xmlHttp = new XMLHttpRequest();
-  xmlHttp.open( "GET", "https://directpoll.com/r?XDbzPBdJ4dCZ2bGMjmcoTveQcEky3nQE9okJWuFgLnXqY1YK", false );
+  xmlHttp.open( "GET", "https://directpoll.com/r?XDbzPBdJqE7S0CykktAmwq53gmi0PDAucJCuRt4ewVHnHiO2i", false );
   xmlHttp.send( null );
   
 }, 5000);
