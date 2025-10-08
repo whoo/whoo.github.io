@@ -1,5 +1,5 @@
 ---
-title:  "Nos meilleures erreurs de sécurité"
+title:  "Nos meilleures erreurs ...&nbsp;de sécurité"
 author:
 - Dominique Derrier
 - Pierre Le Calvez
