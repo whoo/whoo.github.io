@@ -1,5 +1,5 @@
 ---
-title:  "Nos meilleures erreurs ...&nbsp;de sécurité"
+title:  "Nos meilleures erreurs ...&nbsp;de (Cyber)Sécurité"
 author:
 - Dominique Derrier
 - Pierre Le Calvez
