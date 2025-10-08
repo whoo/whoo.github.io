@@ -92,10 +92,10 @@ Le monitoring sonne à 2h du matin.
 Optimisation via GPO.
 Chiffrement + dechiffrement tous les jours.
 
-# Optimisation SSL (Dominique) 
+# Optimisation SSL
 Les certificats SSL, le plaisir de l'administratif à l'installation. Pour simplifier les équipes ont décidé de faire des *.nomsdedomaine.com
 
-# Optimisation SSL (Dominique) 
+# Optimisation SSL 
 ...
 
 
@@ -105,11 +105,11 @@ La lettre de mandat est signée, le test est planifié, l'équipe lance la phase
 Comme c'est le premier test, l'équipe rouge sait qu'elle va trouver des surprises.
 
 
-# Darknet (Dominique)
+# Darknet
 Le DarkNet, il parait qu'on peut trouver tout l'information du monde pour qui sait chercher.<br>
 Rien de telle qu'un demo devant le pdg.
 
-# Darknet (Dominique)
+# Darknet
 
 
 # Mots de passe  (Pierre)
@@ -125,11 +125,14 @@ Un pentest qui fonctionne bien, les gars sont rentrés et on dumpé un malware s
 Voute de mot de passe 
 
 
-# Raid (Dominique)
+#Le postit du président
+
+
+# Raid
 A une époque ou les machines physiques étaient notre quotidien ... bien loin de la virtualsation, des containers et du cloud. Un disque tombe en failure ... appel du support, ouverture du care-pack.
 
 
-# Raid (Dominique)
+# Raid
 
 
 
