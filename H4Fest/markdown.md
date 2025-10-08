@@ -113,7 +113,10 @@ Rien de telle qu'un demo devant le pdg.
 # Darknet
 
 
-# Mots de passe  (Pierre)
+# Mots de passe
+
+# Mots de passe
+
 
 # Pentest
 Un pentest qui fonctionne bien, les gars sont rentrés et on dumpé un malware sur un serveur pour take down le domain.
@@ -122,7 +125,7 @@ Un pentest qui fonctionne bien, les gars sont rentrés et on dumpé un malware s
 
 
 
-# Le postit du président (Pierre)
+# Le postit du président
 Voute de mot de passe 
 
 
@@ -137,7 +140,7 @@ A une époque ou les machines physiques étaient notre quotidien ... bien loin d
 
 
 
-# Le phishing (Pierre)
+# Le phishing
 <img src="images/phishing.jpeg" width=30% style="float: right">
 La sensibilisation par le phishing est l'un des premiers outils de sensibilisation marquants pour les équipes et les entreprises de toute taille qui utilisent l'informatique. <br>
 <br>
