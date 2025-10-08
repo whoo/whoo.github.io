@@ -71,7 +71,7 @@ Le patching... une histoire d'amour entre les Rouge, les Bleus, White. Pour des 
 
 # Shit in the fan
 <center>
-<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ3cBY1aFLilbnSudPbDjx2mPD8njIVtEfKmWpX0XJ'></iframe>
 </center>
 
 
@@ -83,7 +83,7 @@ Et à votre avis … dans un telephone il y a quoi ?.
 
 # Le Blackberry
 <center>
-<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ4dCZ2bGMjmcoTveQcEky3nQE9okJWuFgLnXqY1YK'></iframe>
 </center>
 
 
@@ -93,7 +93,7 @@ Le monitoring sonne à 2h du matin.
 
 # Ressource saturée
 <center>
-<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ5eDa3cHNkndpUwfRdFlz4oRFAplKXvGhMoYrZ2ZL'></iframe>
 </center>
 
 
@@ -105,7 +105,7 @@ Chiffrement + dechiffrement tous les jours.
 
 # DeLock BitLocker GPO
 <center>
-<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ6fEb4dIOloeqVxgSeGm05pSGBqmLYwHiNpZsa3aM'></iframe>
 </center>
 
 
@@ -114,7 +114,7 @@ Les certificats SSL, le plaisir de l'administratif à l'installation. Pour simpl
 
 # Optimisation SSL 
 <center>
-<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ7gFc5eJPmpfrWyhTfHn16qTHCrnMZxIjOqatb4bN'></iframe>
 </center>
 
 
@@ -125,7 +125,7 @@ Comme c'est le premier test, l'équipe rouge sait qu'elle va trouver des surpris
 
 # On the lan
 <center>
-<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ8hGd6fKQnqgsXziUgIo27rUIDsoNayJkPrbuc5cO'></iframe>
 </center>
 
 
@@ -135,7 +135,7 @@ Rien de telle qu'un demo devant le pdg.
 
 # Darknet
 <center>
-<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ9iHe7gLRorhtY0jVhJp38sVJEtpObzKlQscvd6dP'></iframe>
 </center>
 
 
@@ -145,7 +145,7 @@ C'est quoi le pire mot de passe que vous puissiez utiliser (et donc cracker)...
 
 # Mots de passe
 <center>
-<iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJAjIf8hMSpsiuZ1kWiKq49tWKFuqPc0LmRtdwe7eQ'></iframe>
 </center>
 
 
