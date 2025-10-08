@@ -99,7 +99,7 @@ Les certificats SSL, le plaisir de l'administratif à l'installation. Pour simpl
 ...
 
 
-# On the lan (Pierre)
+# On the lan
 <img src="images/NAS.jpg" width=30% style="float:left" >
 La lettre de mandat est signée, le test est planifié, l'équipe lance la phase de reconnaissance dans l'entreprise.<br>
 Comme c'est le premier test, l'équipe rouge sait qu'elle va trouver des surprises.
