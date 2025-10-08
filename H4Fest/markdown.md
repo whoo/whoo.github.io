@@ -42,11 +42,10 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 👉 On se veut bienveillant ;<br>
 👉 On peut apprendre de l'erreur des autres ;<br>
 👉 Attention certaines sections sont NSFW ;<br>
-👉 Aucun ChatGPT n'a pas été maltraité durant la production de ces slides.<br>
+👉 Aucun #LLM n'a pas été maltraité durant la production de ces slides.<br>
 
 # Au Menu
 <img src="images/menu.jpg" width=30% style="float:left; margin-right: 1em;">
-
 
 
 # Participez
@@ -113,8 +112,10 @@ Rien de telle qu'un demo devant le pdg.
 
 # Mots de passe  (Pierre)
 
-# Pentest  (Dominique) 
-Isolation de l'ad 
+# Pentest
+Un pentest qui fonctionne bien, les gars sont rentrés et on dumpé un malware sur un serveur pour take down le domain.
+
+# Pentest
 
 
 
