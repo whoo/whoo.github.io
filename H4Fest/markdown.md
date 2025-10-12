@@ -9,7 +9,7 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 ---
 
 # Dominique Derrier | who0
-<img src=images/dominique.jpg width=20% style="float:left">
+<img src=images/dominique.png width=20% style="float:left">
 <img src=images/dominique_16bit.png width=20% style="float:right">
 
 <center>
