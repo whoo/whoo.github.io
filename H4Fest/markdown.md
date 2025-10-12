@@ -41,10 +41,6 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 👉 Attention certaines sections sont NSFW ;<br>
 👉 Aucun #LLM n'a pas été maltraité durant la production de ces slides.<br>
 
-# Au Menu
-<img src="images/menu.jpg" width=30% style="float:left; margin-right: 1em;">
-
-
 # Participez
 
 <center>
