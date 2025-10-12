@@ -33,7 +33,6 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 </center>
 
 # Disclaimer
-<img src=images/moqueries.jpg style="float:left">
 
 👉 Les histoires sont toutes vraies ;<br>
 👉 C’est drôle mais on ne se moque pas ;<br>
