@@ -21,8 +21,7 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 </center>
 
 # Pierre Le Calvez 
-<img src=images/pierre.jpg width=20% style="float:left">
-<img src=images/pierre_16bit.png width=20% style="float:right">
+<img src=images/pierre.png width=20% style="float:left">
 
 <center>
 | Officiellement      | ... |
