@@ -12,7 +12,7 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 <img src=images/dominique.png width=20% style="float:left">
 
 <center>
-| Officiellement      | Mais la nuit |
+| Officiellement      | Background |
 | :----      | ----:  |
 | 0x19 XP  | OpenSource |  
 | Neotrust  |            |
@@ -24,7 +24,7 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 <img src=images/pierre.png width=20% style="float:left">
 
 <center>
-| Officiellement      | Mais la nuit |
+| Officiellement      | Background |
 | :----      | ----:  |
 | 0x14 XP   |  ex-Pentester 💀|  
 | CGI       |  Incident Response enthusias 💣|
