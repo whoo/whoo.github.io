@@ -49,17 +49,20 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 
 
 # La fraude téléphonique ☎️
+
 <img src="images/phone.webp" width=30% style='float: left'>
 Une compagnie vous appelle pour de l'aide pendant une fraude téléphonique. En effet, elle s'est rendu compte de la mise en place d'une redirection téléphonique vers un numéro surtaxé (que vous maîtrisez).<br>
 Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande un devis pour l'aider.
 
 # La fraude téléphonique ☎️
+
 <center>
 <iframe src='https://directpoll.com/r?XDbzPBdJ2bAX0ZEKhkamRtcOaCiw1lOC7miHUsDeJlVoWzWI'></iframe>
 </center>
 
 
 # Shit in the fan 
+
 <img src="images/infosecWheel.png" width=30% style='float: left'>
 
 Le patching... une histoire d'amour entre les Rouge, les Bleus, White. Pour des raisons de repotring, le gestionnaire de projets à eu accés à l'insterface de patching.
