@@ -212,6 +212,13 @@ Si l'on ne veut pas continuer à apprendre de ses erreurs, une dose d'humour dan
 
 
 
+# End
+<center>
+<iframe src='https://directpoll.com/r?XDbzPBdJqE7S0CykktAmwq53gmi0PDAucJCuRt4ewVHnHiO2i'> </iframe>
+</center>
+
+
+
 
 
 <script>
