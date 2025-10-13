@@ -60,7 +60,7 @@ Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande u
 
 
 # Shit in the fan 
-<img src="images/wheel.png" width=30% style='float: left'>
+<img src="images/infosecWheel.png" width=30% style='float: left'>
 
 Le patching... une histoire d'amour entre les Rouge, les Bleus, White. Pour des raisons de repotring, le gestionnaire de projets à eu accés à l'insterface de patching.
 
