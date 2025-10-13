@@ -3,7 +3,7 @@ title:  "Nos meilleures erreurs ...&nbsp;de (Cyber)Sécurité"
 author:
 - Dominique Derrier
 - Pierre Le Calvez
-keywords: [seQCure, securite, failed]
+keywords: [hackfest, securite, failed]
 abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innover. (Albert E).  Les technologies de l'information, de par leur nature, ouvrent la porte à l'innovation, à l'optimisation... et parfois à la créativité. Mais l’erreur en informatique n’est jamais très loin et cela peut vite coûter cher, en ouvrant des failles de sécurité. Disponibilité, Intégrité, Confidentialité.  En 20 ans d'expérience, nous avons vu de belles histoires d'échecs que nous voulons partager avec vous... L'erreur des autres est gratuite.
 
 ---
