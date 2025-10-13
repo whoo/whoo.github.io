@@ -217,10 +217,7 @@ Si l'on ne veut pas continuer à apprendre de ses erreurs, une dose d'humour dan
 <script>
 
 setTimeout(function() {
-  var xmlHttp = new XMLHttpRequest();
-  xmlHttp.open( "GET", "https://directpoll.com/r?XDbzPBdJqE7S0CykktAmwq53gmi0PDAucJCuRt4ewVHnHiO2i", false );
-  xmlHttp.send( null );
-  
+console.log("Go"); 
 }, 5000);
 </script>
 
