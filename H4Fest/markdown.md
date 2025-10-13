@@ -20,7 +20,7 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 | iso27001 & NIST | ESP32, Docker, Vim |
 </center>
 
-# Pierre Le Calvez 
+# Pierre Le Calvez | Pedro
 <img src=images/pierre.png width=20% style="float:left">
 
 <center>
@@ -60,6 +60,8 @@ Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande u
 
 
 # Shit in the fan 
+<img src="images/wheel.png" width=30% style='float: left'>
+
 Le patching... une histoire d'amour entre les Rouge, les Bleus, White. Pour des raisons de repotring, le gestionnaire de projets à eu accés à l'insterface de patching.
 
 # Shit in the fan
