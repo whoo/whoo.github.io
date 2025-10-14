@@ -205,19 +205,19 @@ Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'est pas toujours évident...
 
 # Attribution des hacks
-<img src="images/Game/01-JIN-SUNG-IL.png" width="20%" style="float:left">
+<img src="images/Game/01.png" width="20%" style="float:left">
 <iframe src='https://directpoll.com/r?XDbzPBdJ3jcxVhTFFOfHRLaYBHDVuifP7ohPwOZ9R0mImDtXD'></iframe>
 
 # Attribution des hacks
-<img src="images/Game/01-JIN-SUNG-IL.rep.png" width="80%" style="float:left">
+<img src="images/Game/01.rep.png" width="80%" style="float:left">
 
 
 # Attribution des hacks
-<img src="images/Game/02-MIKHAIL.png" width="20%" style="float:left">
+<img src="images/Game/02.png" width="20%" style="float:left">
 <iframe src='https://directpoll.com/r?XDbzPBdJ3kdyWiUGGPgISMbZCIEWvjgQ8piQxPaAS1nJnEuYE'></iframe>
 
 # Attribution des hacks
-<img src="images/Game/02-MIKHAIL.rep.png" width="80%" style="float:left">
+<img src="images/Game/02.rep.png" width="80%" style="float:left">
 
 
 # Nous aurions voulu...
