@@ -222,7 +222,9 @@ Bonne nouvelle:
 Les enjeux de sécurité subsisteront, et les erreurs humaines ne disparaîtront pas. Nous aurons encore le temps d'apprendre de nos erreurs, et il est essentiel d'y mettre une dose d'humour dans le processus d'amélioration continue afin de progresser.
 
 # End
-end
+
+<div id=stop> </div>
+
 
 
 
@@ -232,7 +234,7 @@ end
 setTimeout(function() {
 console.log("Go"); 
 
-document.getElementById('results').innerHTML=" <center> <iframe src='https://directpoll.com/r?XDbzPBdJqE7S0CykktAmwq53gmi0PDAucJCuRt4ewVHnHiO2i'> </iframe> </center>";
+document.getElementById('stop').innerHTML=" <center> <iframe src='https://directpoll.com/r?XDbzPBdJqE7S0CykktAmwq53gmi0PDAucJCuRt4ewVHnHiO2i'> </iframe> </center>";
 
 
 
