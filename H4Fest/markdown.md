@@ -96,18 +96,13 @@ Le monitoring s'est déclenchée à 2 heures du matin...
 <iframe src='https://directpoll.com/r?XDbzPBdJ5eDa3cHNkndpUwfRdFlz4oRFAplKXvGhMoYrZ2ZL'></iframe>
 </center>
 
-
-
 # DeLock BitLocker GPO
-
-Optimisation via GPO.
-Chiffrement + dechiffrement tous les jours.
+En securité, il faut chiffrer ! Et quel est le moyen le plus simple d'activer le chiffrement sous Windows ?
 
 # DeLock BitLocker GPO
 <center>
 <iframe src='https://directpoll.com/r?XDbzPBdJ6fEb4dIOloeqVxgSeGm05pSGBqmLYwHiNpZsa3aM'></iframe>
 </center>
-
 
 # Optimisation SSL
 <img src="images/ssl.png" width="30%" style="float:left">
@@ -146,7 +141,7 @@ Cela permet de signaler les dangers afin de prendre les mesures appropriées.
 # Mots de passe
 
 Lors d'un pentest, l'idée est de recueillir un maximum de condensats de mots de passe pour en éprouver la solidité. <br>
-C'est quoi le pire mot de passe que vous puissiez utiliser (et donc cracker)...
+C'est quoi le pire mot de passe sur lequel vous puissiez tomber... ?
 
 # Mots de passe
 <center>
