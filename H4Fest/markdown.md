@@ -272,7 +272,7 @@ Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'e
 <img src="images/Game/game-slide3.png" width=100% style="float: right">
 
 # Guess Who #2
--->
+
 
 # Nous aurions voulu...
 
