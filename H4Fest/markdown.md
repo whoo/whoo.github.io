@@ -179,6 +179,7 @@ Voute de mot de passe
 
 
 # Raid
+<img src="images/raid.png" width="30%" >
 À une époque où les machines physiques étaient au cœur de notre quotidien, bien avant l'apparition de la virtualisation, des conteneurs et du cloud, un disque est tombé en panne. Nous avons alors contacté le support et ouvert un dossier auprès du fabricant. Cependant, quelques minutes après que le technicien ait confirmé avoir terminé son intervention, "il suffit juste d'un redémarrage pour s'assurer que tout fonctionne correctement".
 
 # Raid
