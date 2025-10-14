@@ -65,7 +65,8 @@ Le client a déjà subi 20 000 $ de fraude pendant le week-end et vous demande u
 
 <img src="images/infosecWheel.png" width=30% style='float: left'>
 
-Le patching... une histoire d'amour entre les Rouge, les Bleus, White. Pour des raisons de repotring, le gestionnaire de projets à eu accés à l'insterface de patching.
+Le patching... une histoire d'amour entre les Rouges, les Bleus et White. <br>
+Pour des raisons de reporting, le gestionnaire de projets a eu accès à l'interface de patching.
 
 # Shit in the fan
 <center>
@@ -77,7 +78,7 @@ Le patching... une histoire d'amour entre les Rouge, les Bleus, White. Pour des 
 # Le Blackberry
 <img src="images/blackberry.jpg" width=50% style='float:left'>
 Mais où sont jeté les anciens téléphones ? Dans les poubelles bien sûr...<br>
-Et à votre avis … dans un telephone il y a quoi ?.
+Et à votre avis ... dans un telephone il y a quoi ?.
 
 # Le Blackberry
 <center>
@@ -87,8 +88,8 @@ Et à votre avis … dans un telephone il y a quoi ?.
 
 # Ressource saturée
 <img src="images/ftp.png" width=20% style='float:left'>
-A la belle époque ou 21 et le 20 était la meilleure solution pour échanger de fichier.
-Le monitoring sonne à 2h du matin.
+À l'époque où les systèmes 21 et 20 étaient les meilleures solutions pour échanger des fichiers.
+Le monitoring s'est déclenchée à 2 heures du matin...
 
 # Ressource saturée
 <center>
@@ -109,7 +110,8 @@ Chiffrement + dechiffrement tous les jours.
 
 
 # Optimisation SSL
-Les certificats SSL, le plaisir de l'administratif à l'installation. Pour simplifier les équipes ont décidé de faire des *.nomsdedomaine.com
+Les certificats SSL : la joie des formalités administratives lors de l'installation. <br>
+Les protocoles de validation, les communications entre les administrateurs systèmes, ainsi que la facturation, etc. Bref, pour simplifier, les équipes ont opté pour des formats comme *.nomsdedomaine.com.
 
 # Optimisation SSL 
 <center>
@@ -130,8 +132,9 @@ Comme c'est le premier test, l'équipe rouge sait qu'elle va trouver des surpris
 
 # Darknet
 <img src="images/darkweb.png" width=30% style="float:left" >
-Le DarkNet, il parait qu'on peut trouver tout l'information du monde pour qui sait chercher.<br>
-Rien de telle qu'un demo devant le PDG pendant le conseil d'administration.
+Il semblerait qu'on puisse trouver toutes les informations du monde sur le DarkNet pour ceux qui savent chercher.<br>
+Rien de tel qu'une démonstration devant le PDG pendant la réunion du conseil d'administration.<br>
+Cela permet de signaler les dangers afin de prendre les mesures appropriées.
 
 # Darknet
 <center>
@@ -151,7 +154,10 @@ C'est quoi le pire mot de passe que vous puissiez utiliser (et donc cracker)...
 
 
 # Pentest
-Un pentest qui fonctionne bien, les gars sont rentrés et on dumpé un malware sur un serveur pour take down le domain.
+Un test d'intrusion qui s'est bien déroulé (du bonbon pour les pentesteurs).
+L'équipe est parvenue à pénétrer le système et a déployé un logiciel malveillant sur un serveur pour récupérer le sésame magique.
+
+
 
 # Pentest
 <center>
@@ -172,8 +178,7 @@ Voute de mot de passe
 
 
 # Raid
-A une époque ou les machines physiques étaient notre quotidien ... bien loin de la virtualsation, des containers et du cloud. Un disque tombe en failure ... appel du support, ouverture du care-pack.
-
+À une époque où les machines physiques étaient au cœur de notre quotidien, bien avant l'apparition de la virtualisation, des conteneurs et du cloud, un disque est tombé en panne. Nous avons alors contacté le support et ouvert un dossier auprès du fabricant. Cependant, quelques minutes après que le technicien ait confirmé avoir terminé son intervention, "il suffit juste d'un redémarrage pour s'assurer que tout fonctionne correctement".
 
 # Raid
 <center>
@@ -205,15 +210,14 @@ Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 Même si 
 <br>
  👉  l’amélioration continue ; <br>
+ 👉  les formations disponibles ; <br>
+ 👉  les outils ; <br>
  👉  l'intelligence artificielle ; <br>
 <br>
 <br>
 <br>
-Les questions de sécurité ne vont pas disparaitre et les erreurs humaines ne vont pas s’arrêter.<br>
-Si l'on ne veut pas continuer à apprendre de ses erreurs, une dose d'humour dans l'amélioration continue est nécessaire pour avancer.
-
-
-
+Bonne nouvelle: 
+Les enjeux de sécurité subsisteront, et les erreurs humaines ne disparaîtront pas. Nous aurons encore le temps d'apprendre de nos erreurs, et il est essentiel d'y mettre une dose d'humour dans le processus d'amélioration continue afin de progresser.
 
 # End
 <center>
@@ -256,3 +260,4 @@ Le phishing (Pierre)
 
 
 --> 
+
