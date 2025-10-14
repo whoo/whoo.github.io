@@ -155,6 +155,7 @@ C'est quoi le pire mot de passe que vous puissiez utiliser (et donc cracker)...
 
 
 # Pentest
+<img src="images/pentest.gif" width='50%' style='float:left'>
 Un test d'intrusion qui s'est bien déroulé (du bonbon pour les pentesteurs).
 L'équipe est parvenue à pénétrer le système et a déployé un logiciel malveillant sur un serveur pour récupérer le sésame magique.
 
@@ -186,7 +187,6 @@ Voute de mot de passe
 <center>
 <iframe src='https://directpoll.com/r?XDbzPBdJ3havTfRDDMdFPJYW9FBTsgdN5mfNuMX7PykGkBrVB'></iframe>
 </center>
-
 
 
 # Le phishing
