@@ -200,25 +200,65 @@ Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 <iframe src='https://directpoll.com/r?XDbzPBdJ3ibwUgSEENeGQKZXAGCUtheO6ngOvNY8QzlHlCsWC'></iframe>
 </center>
 
-# Attribution des hacks
+# Guess Who 
 <img src="images/Game/game-slide1.png" width="80%" style='float:left'>
 Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'est pas toujours évident...
 
-# Attribution des hacks
+# Guess Who 
 <img src="images/Game/01.png" width="20%" style="float:left">
 <iframe src='https://directpoll.com/r?XDbzPBdJ3jcxVhTFFOfHRLaYBHDVuifP7ohPwOZ9R0mImDtXD'></iframe>
 
-# Attribution des hacks
+# Guess Who 
 <img src="images/Game/01.rep.png" width="80%" style="float:left">
 
-
-# Attribution des hacks
+<!--- Guess who block -->
+# Guess Who 
 <img src="images/Game/02.png" width="20%" style="float:left">
 <iframe src='https://directpoll.com/r?XDbzPBdJ3kdyWiUGGPgISMbZCIEWvjgQ8piQxPaAS1nJnEuYE'></iframe>
 
-# Attribution des hacks
+# Guess Who 
 <img src="images/Game/02.rep.png" width="80%" style="float:left">
 
+<!-- end block -->
+
+<!--- Guess who block -->
+# Guess Who 
+<img src="images/Game/03.png" width="20%" style="float:left">
+<iframe src='https://directpoll.com/r?XDbzPBdJ3lezXjVHHQhJTNcaDJFXwkhR9qjRyQbBT2oKoFvZF'></iframe>
+
+# Guess Who 
+<img src="images/Game/03.rep.png" width="80%" style="float:left">
+
+<!-- end block -->
+
+# Guess Who 
+<img src="images/Game/04.png" width="20%" style="float:left">
+<iframe src='https://directpoll.com/r?XDbzPBdJ3mf0YkWIIRiKUOdbEKGYxliSArkSzRcCU3pLpGwaG'></iframe>
+
+# Guess Who 
+<img src="images/Game/04.rep.png" width="80%" style="float:left">
+
+<!-- end block -->
+
+# Guess Who 
+<img src="images/Game/05.png" width="20%" style="float:left">
+<iframe src='https://directpoll.com/r?XDbzPBdJ3ng1ZlXJJSjLVPecFLHZymjTBslT0SdDV4qMqHxbH'></iframe>
+
+# Guess Who 
+<img src="images/Game/05.rep.png" width="80%" style="float:left">
+
+<!-- end block -->
+
+# Guess Who 
+<img src="images/Game/06.png" width="20%" style="float:left">
+<iframe src='https://directpoll.com/r?XDbzPBdJ3oh2amYKKTkMWQfdGMIaznkUCtmU1TeEW5rNrIycI'></iframe>
+
+# Guess Who 
+<img src="images/Game/06.rep.png" width="80%" style="float:left">
+
+<!-- end block -->
+
+<!-- >
 # Guess Who Start
 <img src="images/Game/game-slide1.png" width=100% style="float: right">
 
@@ -232,7 +272,7 @@ Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'e
 <img src="images/Game/game-slide3.png" width=100% style="float: right">
 
 # Guess Who #2
-
+-->
 
 # Nous aurions voulu...
 
