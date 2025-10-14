@@ -201,7 +201,7 @@ Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 </center>
 
 # Attribution des hacks
-<img src="images/Game/guess-who-boxe.png" width="20%" style='float:left'>
+<img src="images/Game/game-slide1.png" width="80%" style='float:left'>
 Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'est pas toujours évident...
 
 # Attribution des hacks
