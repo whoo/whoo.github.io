@@ -219,6 +219,20 @@ Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'e
 # Attribution des hacks
 <img src="images/Game/02.rep.png" width="80%" style="float:left">
 
+# Guess Who Start
+<img src="images/Game/game-slide1.png" width=100% style="float: right">
+
+# Guess Who #1
+<img src="images/Game/game-slide2.png" width=100% style="float: right">
+
+# Guess Who #1
+<iframe src='https://directpoll.com/TO-UPDATE'></iframe>
+
+# Guess Who #1
+<img src="images/Game/game-slide3.png" width=100% style="float: right">
+
+# Guess Who #2
+
 
 # Nous aurions voulu...
 
