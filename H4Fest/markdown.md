@@ -110,6 +110,7 @@ Chiffrement + dechiffrement tous les jours.
 
 
 # Optimisation SSL
+<img src="images/ssl.png" width="20%" style="float:right">
 Les certificats SSL : la joie des formalités administratives lors de l'installation. <br>
 Les protocoles de validation, les communications entre les administrateurs systèmes, ainsi que la facturation, etc. Bref, pour simplifier, les équipes ont opté pour des formats comme *.nomsdedomaine.com.
 
@@ -223,8 +224,6 @@ Les enjeux de sécurité subsisteront, et les erreurs humaines ne disparaîtront
 <center>
 <iframe src='https://directpoll.com/r?XDbzPBdJqE7S0CykktAmwq53gmi0PDAucJCuRt4ewVHnHiO2i'> </iframe>
 </center>
-
-
 
 
 
