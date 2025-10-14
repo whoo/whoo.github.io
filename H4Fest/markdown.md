@@ -87,8 +87,8 @@ Et à votre avis ... dans un telephone il y a quoi ?.
 
 
 # Ressource saturée
-<img src="images/ftp.png" width=20% style='float:left'>
-À l'époque où les systèmes 21 et 20 étaient les meilleures solutions pour échanger des fichiers.
+<img src="images/ftp.png" width=30% style='float:left'>
+À l'époque où les systèmes <code>21</code> et <code>20</code> étaient les meilleures solutions pour échanger des fichiers.
 Le monitoring s'est déclenchée à 2 heures du matin...
 
 # Ressource saturée
