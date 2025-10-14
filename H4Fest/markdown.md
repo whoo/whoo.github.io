@@ -128,6 +128,7 @@ Comme c'est le premier test, l'équipe rouge sait qu'elle va trouver des surpris
 
 
 # Darknet
+<img src="images/darkweb.png" width=30% style="float:left" >
 Le DarkNet, il parait qu'on peut trouver tout l'information du monde pour qui sait chercher.<br>
 Rien de telle qu'un demo devant le pdg.
 
