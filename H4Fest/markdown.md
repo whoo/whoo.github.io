@@ -206,7 +206,11 @@ Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'e
 
 # Attribution des hacks
 <img src="images/Game/1-JIN-SUNG-IL.png" width="20%" style="float:left">
-<iframe src='https://directpoll.com/r?XDbzPBdJ3ibwUgSEENeGQKZXAGCUtheO6ngOvNY8QzlHlCsWC'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ3jcxVhTFFOfHRLaYBHDVuifP7ohPwOZ9R0mImDtXD'></iframe>
+
+# Attribution des hacks
+<img src="images/Game/2-MIKHAIL-PAVLOVICH-MATVEEV.png" width="20%" style="float:left">
+<iframe src='https://directpoll.com/r?XDbzPBdJ3kdyWiUGGPgISMbZCIEWvjgQ8piQxPaAS1nJnEuYE'></iframe>
 
 
 # Nous aurions voulu...
