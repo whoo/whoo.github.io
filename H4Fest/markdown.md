@@ -86,6 +86,7 @@ Et à votre avis … dans un telephone il y a quoi ?.
 
 
 # Ressource saturée
+<img src="images/ftp.png" width=50% style='float:left'>
 A la belle époque ou 21 et le 20 était la meilleure solution pour échanger de fichier.
 Le monitoring sonne à 2h du matin.
 
