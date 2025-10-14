@@ -231,10 +231,7 @@ Les enjeux de sécurité subsisteront, et les erreurs humaines ne disparaîtront
 setTimeout(function() {
 console.log("Go"); 
 
-document.write("
-<center>
-<iframe src='https://directpoll.com/r?XDbzPBdJqE7S0CykktAmwq53gmi0PDAucJCuRt4ewVHnHiO2i'> </iframe>
-</center>");
+document.write(" <center> <iframe src='https://directpoll.com/r?XDbzPBdJqE7S0CykktAmwq53gmi0PDAucJCuRt4ewVHnHiO2i'> </iframe> </center>");
 
 
 
