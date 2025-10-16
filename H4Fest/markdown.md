@@ -51,7 +51,7 @@ abstract: Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innov
 # La fraude téléphonique ☎️
 
 <img src="images/phone.webp" width=30% style='float: left'>
-Une compagnie vous appelle pour de l'aide pendant une fraude téléphonique. En effet, elle s'est rendu compte de la mise en place d'une redirection téléphonique vers un numéro surtaxé (attack de type International Revenue Share Fraud.<br>
+Une compagnie vous appelle pour de l'aide pendant une fraude téléphonique. En effet, elle s'est rendu compte de la mise en place d'une redirection téléphonique vers un numéro surtaxé (attack de type International Revenue Share Fraud).<br>
 Le client a déjà subi 20 000 $ de fraude pendant la fin de semaine et vous demande un devis pour l'aider.
 
 # La fraude téléphonique ☎️
