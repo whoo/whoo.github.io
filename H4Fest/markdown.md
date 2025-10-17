@@ -245,20 +245,20 @@ Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'e
 <!-- end block -->
 
 # Guess Who 
-<img src="images/Game/06.png" width="20%" style="float:left">
-<iframe src='https://directpoll.com/r?XDbzPBdJ3oh2amYKKTkMWQfdGMIaznkUCtmU1TeEW5rNrIycI'></iframe>
-
-# Guess Who 
-<img src="images/Game/06.rep.png" width="80%" style="float:left">
-
-<!-- end block -->
-
-# Guess Who 
 <img src="images/Game/07.png" width="20%" style="float:left">
 <iframe src='https://directpoll.com/ '></iframe>
 
 # Guess Who 
 <img src="images/Game/07.rep.png" width="80%" style="float:left">
+
+<!-- end block -->
+
+# Guess Who 
+<img src="images/Game/06.png" width="20%" style="float:left">
+<iframe src='https://directpoll.com/r?XDbzPBdJ3oh2amYKKTkMWQfdGMIaznkUCtmU1TeEW5rNrIycI'></iframe>
+
+# Guess Who 
+<img src="images/Game/06.rep.png" width="80%" style="float:left">
 
 <!-- end block -->
 
