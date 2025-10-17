@@ -191,7 +191,7 @@ Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'e
 
 # Guess Who 
 <img src="images/Game/01.png" width="20%" style="float:left">
-<iframe src='https://directpoll.com/r?XDbzPBdJ3jcxVhTFFOfHRLaYBHDVuifP7ohPwOZ9R0mImDtXD'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ3ibwUgSEENeGQKZXAGCUtheO6ngOvNY8QzlHlCsWC'></iframe>
 
 # Guess Who 
 <img src="images/Game/01.rep.png" width="80%" style="float:left">
@@ -199,7 +199,7 @@ Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'e
 <!--- Guess who block -->
 # Guess Who 
 <img src="images/Game/02.png" width="20%" style="float:left">
-<iframe src='https://directpoll.com/r?XDbzPBdJ3kdyWiUGGPgISMbZCIEWvjgQ8piQxPaAS1nJnEuYE'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ3jcxVhTFFOfHRLaYBHDVuifP7ohPwOZ9R0mImDtXD'></iframe>
 
 # Guess Who 
 <img src="images/Game/02.rep.png" width="80%" style="float:left">
@@ -209,7 +209,7 @@ Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'e
 <!--- Guess who block -->
 # Guess Who 
 <img src="images/Game/03.png" width="20%" style="float:left">
-<iframe src='https://directpoll.com/r?XDbzPBdJ3lezXjVHHQhJTNcaDJFXwkhR9qjRyQbBT2oKoFvZF'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ3kdyWiUGGPgISMbZCIEWvjgQ8piQxPaAS1nJnEuYE'></iframe>
 
 # Guess Who 
 <img src="images/Game/03.rep.png" width="80%" style="float:left">
@@ -218,7 +218,7 @@ Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'e
 
 # Guess Who 
 <img src="images/Game/04.png" width="20%" style="float:left">
-<iframe src='https://directpoll.com/r?XDbzPBdJ3mf0YkWIIRiKUOdbEKGYxliSArkSzRcCU3pLpGwaG'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ3lezXjVHHQhJTNcaDJFXwkhR9qjRyQbBT2oKoFvZF'></iframe>
 
 # Guess Who 
 <img src="images/Game/04.rep.png" width="80%" style="float:left">
@@ -227,7 +227,7 @@ Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'e
 
 # Guess Who 
 <img src="images/Game/05.png" width="20%" style="float:left">
-<iframe src='https://directpoll.com/r?XDbzPBdJ3ng1ZlXJJSjLVPecFLHZymjTBslT0SdDV4qMqHxbH'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ3mf0YkWIIRiKUOdbEKGYxliSArkSzRcCU3pLpGwaG'></iframe>
 
 # Guess Who 
 <img src="images/Game/05.rep.png" width="80%" style="float:left">
@@ -236,7 +236,7 @@ Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'e
 
 # Guess Who 
 <img src="images/Game/07.png" width="20%" style="float:left">
-<iframe src='https://directpoll.com/ '></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ3ng1ZlXJJSjLVPecFLHZymjTBslT0SdDV4qMqHxbH'></iframe>
 
 # Guess Who 
 <img src="images/Game/07.rep.png" width="80%" style="float:left">
@@ -245,7 +245,7 @@ Identifier le patient zéro ou déterminer qui est à l'origine de l'attaque n'e
 
 # Guess Who 
 <img src="images/Game/06.png" width="20%" style="float:left">
-<iframe src='https://directpoll.com/r?XDbzPBdJ3oh2amYKKTkMWQfdGMIaznkUCtmU1TeEW5rNrIycI'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdWNwVsLuZf25v7mExjvX3HM6jXS73cpDYze6q9rKrd'></iframe>
 
 # Guess Who 
 <img src="images/Game/06.rep.png" width="80%" style="float:left">
