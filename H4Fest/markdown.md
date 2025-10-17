@@ -97,6 +97,8 @@ Le monitoring s'est déclenchée à 2 heures du matin...
 </center>
 
 # DeLock BitLocker GPO
+<img src="images/bitlocker.jpg" width=30% style='float:left'>
+
 En securité, il faut chiffrer ! Et quel est le moyen le plus simple d'activer le chiffrement sous Windows ?
 
 # DeLock BitLocker GPO
