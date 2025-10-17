@@ -140,7 +140,7 @@ Cela permet de signaler les dangers afin de prendre les mesures appropriées.
 
 # Mots de passe
 
-<img src="images/motdepasse.png" width=20% style='float:left'>
+<img src="images/motdepasse.png" width=40% style='float:left'>
 Lors d'un pentest, l'idée est de recueillir un maximum de condensats de mots de passe pour en éprouver la solidité. <br>
 C'est quoi le pire mot de passe sur lequel vous puissiez tomber... ?
 
@@ -156,22 +156,22 @@ Un test d'intrusion qui s'est bien déroulé (du bonbon pour les pentesteurs).
 L'équipe est parvenue à pénétrer le système et a déployé un logiciel malveillant sur un serveur pour récupérer le sésame magique.
 
 
-
 # Pentest
 <center>
 <iframe src='https://directpoll.com/r?XDbzPBdJBkJg9iNTqtjva2lXjLr5AuXLGvrQd1MnSuexf8fR'></iframe>
 </center>
 
+# Le phishing
+<img src="images/phishing.jpeg" width=30% style="float: right">
+La sensibilisation par le phishing est l'un des premiers outils de sensibilisation marquants pour les équipes et les entreprises de toute taille qui utilisent l'informatique. <br>
+<br>
+Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
 
-
-# Le postit du président
-Voute de mot de passe 
-
-
-# Le postit du président
+# Le phishing
 <center>
-<iframe src='https://directpoll.com/r?XDbzPBdJ3gZuSeQCCLcEOIXV8EASrfcM4leMtLW6OxjFjAqUA'></iframe>
+<iframe src='https://directpoll.com/r?XDbzPBdJ3ibwUgSEENeGQKZXAGCUtheO6ngOvNY8QzlHlCsWC'></iframe>
 </center>
+
 
 
 
@@ -184,17 +184,6 @@ Voute de mot de passe
 <iframe src='https://directpoll.com/r?XDbzPBdJ3havTfRDDMdFPJYW9FBTsgdN5mfNuMX7PykGkBrVB'></iframe>
 </center>
 
-
-# Le phishing
-<img src="images/phishing.jpeg" width=30% style="float: right">
-La sensibilisation par le phishing est l'un des premiers outils de sensibilisation marquants pour les équipes et les entreprises de toute taille qui utilisent l'informatique. <br>
-<br>
-Comment une sensibilisation par phishing peut-elle vraiment mal tourner ?
-
-# Le phishing
-<center>
-<iframe src='https://directpoll.com/r?XDbzPBdJ3ibwUgSEENeGQKZXAGCUtheO6ngOvNY8QzlHlCsWC'></iframe>
-</center>
 
 # Guess Who 
 <img src="images/Game/game-slide1.png" width="80%" style='float:left'>
