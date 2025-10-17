@@ -140,7 +140,7 @@ Cela permet de signaler les dangers afin de prendre les mesures appropriées.
 
 # Mots de passe
 
-<img src="images/motdepasse.png" width=20%>
+<img src="images/motdepasse.png" width=20% style='float:left'>
 Lors d'un pentest, l'idée est de recueillir un maximum de condensats de mots de passe pour en éprouver la solidité. <br>
 C'est quoi le pire mot de passe sur lequel vous puissiez tomber... ?
 
